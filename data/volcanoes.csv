@@ -1,0 +1,655 @@
+Year,Volcano Name,Country,Elevation,Volcanic Explosivity Index,Latitude,Longitude
+1280,Quilotoa,Ecuador,3914,6.0,-0.85,-78.9
+1540,Augustine,United States,1252,4.0,59.37,-153.42
+1660,Long Island,Papua New Guinea,1280,6.0,-5.358,147.12
+1864,Kelut,Indonesia,1731,2.0,-7.93,112.308
+1873,Ragang,Philippines,2815,2.0,7.67,124.5
+1902,Tori-shima,Japan,403,3.0,30.48,140.32
+1907,Alayta,Ethiopia,1501,2.0,12.88,40.57
+1909,Semeru,Indonesia,3676,2.0,-8.108,112.92
+1919,Kelut,Indonesia,1731,4.0,-7.93,112.308
+1920,Izalco,El Salvador,1950,3.0,13.813,-89.633
+1949,Villarrica,Chile,2847,3.0,-39.42,-71.93
+1963,Fuego,Guatemala,3763,3.0,14.473,-90.88
+1968,Mayon,Philippines,2462,3.0,13.257,123.685
+1985,Semeru,Indonesia,3676,3.0,-8.108,112.92
+1992,Marapi,Indonesia,2891,2.0,-0.381,100.473
+2001,Stromboli,Italy,926,2.0,38.789,15.213
+2004,Manam,Papua New Guinea,1807,4.0,-4.1,145.061
+-1750,Veniaminof,United States,2507,6.0,56.17,-159.38
+930,Ceboruco,Mexico,2280,6.0,21.125,-104.508
+1158,Hekla,Iceland,1491,4.0,63.98,-19.7
+1329,Etna,Italy,3350,1.0,37.734,15.004
+1510,Hekla,Iceland,1491,4.0,63.98,-19.7
+1615,Banda Api,Pacific Ocean,640,3.0,-4.525,129.871
+1617,Fuego,Guatemala,3763,3.0,14.473,-90.88
+1646,Makian,Indonesia,1357,4.0,0.32,127.4
+1677,La Palma,Spain,2426,2.0,28.58,-17.83
+1784,Hualalai,United States,2523,0.0,19.692,-155.87
+1800,St. Helens,United States,2549,5.0,46.2,-122.18
+1820,Banda Api,Pacific Ocean,640,2.0,-4.525,129.871
+1827,Avachinsky,Russia,2741,2.0,53.255,158.83
+1843,Etna,Italy,3350,2.0,37.734,15.004
+1847,Dieng Volc Complex,Indonesia,2565,2.0,-7.2,109.92
+1866,Ofu-Olosega,United States,639,2.0,-14.175,-169.618
+1870,Ruang,Indonesia,725,2.0,2.28,125.425
+1870,Iliwerung,Indonesia,1018,3.0,-8.54,123.59
+1885,Purace,Colombia,4650,3.0,2.32,-76.4
+1897,Tinakula,Solomon Is.,851,2.0,-10.38,165.8
+1902,Soufriere St. Vincent,St. Vincent & the Grenadines,1220,4.0,13.33,-61.18
+1907,Unnamed,Tonga,-500,0.0,-21.38,-175.65
+1932,Kusatsu-Shirane,Japan,2176,3.0,36.62,138.55
+1951,Kavachi,Solomon Is.,-20,2.0,-9.02,157.95
+1991,Lokon-Empung,Indonesia,1580,1.0,1.358,124.792
+1995,Pacaya,Guatemala,2552,3.0,14.381,-90.601
+1999,Fuego,Guatemala,3763,2.0,14.473,-90.88
+2011,Gamalama,Indonesia,1715,3.0,0.8,127.325
+-4050,Masaya,Nicaragua,635,6.0,11.984,-86.161
+-2420,Vesuvius,Italy,1281,5.0,40.821,14.426
+1375,"Chichon, El",Mexico,1150,5.0,17.36,-93.228
+1376,Kelut,Indonesia,1731,3.0,-7.93,112.308
+1538,Campi Flegrei,Italy,458,3.0,40.827,14.139
+1664,Unzen,Japan,1500,2.0,32.75,130.3
+1698,Cotopaxi,Ecuador,5911,3.0,-0.677,-78.436
+1775,Gamalama,Indonesia,1715,3.0,0.8,127.325
+1800,Mayon,Philippines,2462,2.0,13.257,123.685
+1822,Usu,Japan,731,4.0,42.53,140.83
+1822,Galunggung,Indonesia,2168,5.0,-7.25,108.05
+1874,Miyake-jima,Japan,815,3.0,34.08,139.53
+1911,Semeru,Indonesia,3676,3.0,-8.108,112.92
+1916,Stromboli,Italy,926,3.0,38.789,15.213
+1928,Dieng Volc Complex,Indonesia,2565,2.0,-7.2,109.92
+1933,Bulusan,Philippines,1565,2.0,12.77,124.05
+1944,Usu,Japan,731,2.0,42.53,140.83
+1966,Kelut,Indonesia,1731,4.0,-7.93,112.308
+1966,"Lengai, Ol Doinyo",Tanzania,2890,4.0,-2.751,35.902
+1971,"Hudson, Cerro",Chile,1905,3.0,-45.9,-72.97
+1973,Iliwerung,Indonesia,1018,2.0,-8.54,123.59
+1979,Karkar,Papua New Guinea,1839,2.0,-4.649,145.964
+1981,Etna,Italy,3350,2.0,37.734,15.004
+1982,"Chichon, El",Mexico,1150,5.0,17.36,-93.228
+1993,Galeras,Colombia,4276,2.0,1.22,-77.37
+2002,Etna,Italy,3350,3.0,37.734,15.004
+2011,Puyehue,Chile,2236,4.0,-40.59,-72.117
+2014,On-take,Japan,3063,3.0,35.9,137.48
+2018,Manam,Papua New Guinea,1807,4.0,-4.1,145.061
+-250,Raoul Island,New Zealand,516,6.0,-29.27,-177.92
+1640,Komaga-take,Japan,1140,5.0,42.07,140.68
+1785,Aoga-shima,Japan,423,3.0,32.45,139.77
+1812,Awu,Indonesia,1320,3.0,3.67,125.5
+1853,Niuafo'ou,Tonga,260,0.0,-15.6,-175.63
+1892,Sorikmarapi,Indonesia,2145,2.0,0.686,99.539
+1917,Calbuco,Chile,2003,3.0,-41.326,-72.614
+1933,Kharimkotan,Russia,1145,3.0,49.12,154.508
+1938,Asama,Japan,2560,1.0,36.4,138.53
+1941,Asama,Japan,2560,2.0,36.4,138.53
+1943,Michoacan-Guanajuato,Mexico,3860,4.0,19.48,-102.25
+1944,Dieng Volc Complex,Indonesia,2565,2.0,-7.2,109.92
+1953,Oshima,Japan,758,1.0,34.73,139.38
+1990,Aso,Japan,1592,2.0,32.88,131.1
+1991,Pinatubo,Philippines,1486,6.0,15.13,120.35
+1992,Pinatubo,Philippines,1486,1.0,15.13,120.35
+1995,Fogo,Cape Verde,2829,2.0,14.95,-24.35
+1996,Manam,Papua New Guinea,1807,3.0,-4.1,145.061
+2005,Santa Ana,El Salvador,2365,3.0,13.853,-89.63
+2006,Soufriere Hills,Montserrat,915,2.0,16.72,-62.18
+450,Ilopango,El Salvador,450,6.0,13.672,-89.053
+1565,Pacaya,Guatemala,2552,3.0,14.381,-90.601
+1608,Gamalama,Indonesia,1715,3.0,0.8,127.325
+1716,Kirishima,Japan,1700,3.0,31.93,130.87
+1721,Asama,Japan,2560,1.0,36.4,138.53
+1762,Kliuchevskoi,Russia,4835,2.0,56.057,160.638
+1786,Dieng Volc Complex,Indonesia,2565,2.0,-7.2,109.92
+1800,Hualalai,United States,2523,0.0,19.692,-155.87
+1839,Unnamed,Chile,-642,2.0,-33.62,-76.83
+1861,Grimsvotn,Iceland,1725,2.0,64.42,-17.33
+1901,Kelut,Indonesia,1731,3.0,-7.93,112.308
+1911,Taal,Philippines,400,3.0,14.002,120.993
+1917,"Lengai, Ol Doinyo",Tanzania,2890,3.0,-2.751,35.902
+1941,Semeru,Indonesia,3676,2.0,-8.108,112.92
+1944,Usu,Japan,731,2.0,42.53,140.83
+1947,Hekla,Iceland,1491,4.0,63.98,-19.7
+1979,Etna,Italy,3350,2.0,37.734,15.004
+1982,Galunggung,Indonesia,2168,4.0,-7.25,108.05
+1988,Arenal,Costa Rica,1657,3.0,10.463,-84.703
+60,Bona-Churchill,United States,5005,6.0,61.38,-141.75
+1631,Vesuvius,Italy,1281,5.0,40.821,14.426
+1682,Vesuvius,Italy,1281,3.0,40.821,14.426
+1757,San Jorge,Portugal,1053,0.0,38.65,-28.08
+1812,Soufriere St. Vincent,St. Vincent & the Grenadines,1220,4.0,13.33,-61.18
+1827,Avachinsky,Russia,2741,2.0,53.255,158.83
+1846,Tangkubanparahu,Indonesia,2084,2.0,-6.77,107.6
+1856,Komaga-take,Japan,1140,4.0,42.07,140.68
+1883,Augustine,United States,1252,4.0,59.37,-153.42
+1914,Sakura-jima,Japan,1117,4.0,31.58,130.67
+1919,Stromboli,Italy,926,3.0,38.789,15.213
+1927,Esjufjoll,Iceland,1760,1.0,64.27,-16.65
+1944,Vesuvius,Italy,1281,2.0,40.821,14.426
+1949,Camiguin,Philippines,1332,3.0,9.203,124.673
+1953,Myojun Knoll,Japan,360,2.0,32.1,139.85
+1968,Arenal,Costa Rica,1657,3.0,10.463,-84.703
+1981,Alaid,Russia,2339,2.0,50.858,155.55
+1997,Soufriere Hills,Montserrat,915,3.0,16.72,-62.18
+2002,Semeru,Indonesia,3676,3.0,-8.108,112.92
+2006,Tungurahua,Ecuador,5023,3.0,-1.467,-78.442
+-4360,Macauley Island,New Zealand,238,6.0,-30.2,-178.47
+-4000,Pago,Papua New Guinea,742,6.0,-5.58,150.52
+-50,Apoyeque,Nicaragua,518,6.0,12.242,-86.342
+46,Santorini,Greece,329,3.0,36.404,25.396
+787,Vesuvius,Italy,1281,3.0,40.821,14.426
+1536,Etna,Italy,3350,3.0,37.734,15.004
+1726,Bardarbunga,Iceland,2000,1.0,64.63,-17.53
+1730,Raung,Indonesia,3332,3.0,-8.125,114.042
+1742,Cotopaxi,Ecuador,5911,3.0,-0.677,-78.436
+1749,Taal,Philippines,400,3.0,14.002,120.993
+1824,Shishaldin,United States,2857,3.0,54.75,-163.97
+1848,Kelut,Indonesia,1731,2.0,-7.93,112.308
+1892,Tofua,Tonga,512,2.0,-19.75,-175.07
+1897,Mayon,Philippines,2462,3.0,13.257,123.685
+1912,Nyamuragira,"Congo, DRC",3058,3.0,-1.408,29.2
+1919,Popocatepetl,Mexico,5426,1.0,19.023,-98.622
+1929,Etna,Italy,3350,2.0,37.734,15.004
+1939,Tori-shima,Japan,403,2.0,30.48,140.32
+1940,Karangetang [Api Siau],Indonesia,1784,2.0,2.78,125.48
+1947,Asama,Japan,2560,2.0,36.4,138.53
+1957,Oshima,Japan,758,2.0,34.73,139.38
+1979,Aso,Japan,1592,2.0,32.88,131.1
+1994,Aso,Japan,1592,1.0,32.88,131.1
+2001,Etna,Italy,3350,3.0,37.734,15.004
+2011,Bulusan,Philippines,1565,2.0,12.77,124.05
+-1460,Taupo,New Zealand,760,6.0,-38.82,176.0
+1000,Changbaishan,North Korea,2744,7.0,41.98,128.08
+1727,Oraefajokull,Iceland,2119,4.0,64.0,-16.65
+1826,Kelut,Indonesia,1731,3.0,-7.93,112.308
+1868,Mauna Loa,United States,4170,2.0,19.475,-155.608
+1869,Lewotobi,Indonesia,1703,2.0,-8.53,122.775
+1895,Dakataua,Papua New Guinea,400,2.0,-5.056,150.108
+1900,Adatara,Japan,1718,2.0,37.62,140.28
+1902,Merapi,Indonesia,2947,2.0,-7.542,110.442
+1907,Lewotobi,Indonesia,1703,2.0,-8.53,122.775
+1913,Awu,Indonesia,1320,2.0,3.67,125.5
+1930,Asama,Japan,2560,3.0,36.4,138.53
+1938,Nyamuragira,"Congo, DRC",3058,1.0,-1.408,29.2
+1938,Mayon,Philippines,2462,2.0,13.257,123.685
+1958,Mahawu,Indonesia,1324,2.0,1.358,124.858
+1964,Paluweh,Indonesia,875,2.0,-8.32,121.708
+1992,Spurr,United States,3374,4.0,61.3,-152.25
+2000,Arenal,Costa Rica,1657,3.0,10.463,-84.703
+2010,Pacaya,Guatemala,2552,1.0,14.381,-90.601
+1334,Kelut,Indonesia,1731,3.0,-7.93,112.308
+1564,Gamkonora,Indonesia,1635,3.0,1.375,127.52
+1711,Awu,Indonesia,1320,3.0,3.67,125.5
+1877,Cotopaxi,Ecuador,5911,4.0,-0.677,-78.436
+1892,Awu,Indonesia,1320,3.0,3.67,125.5
+1895,Semeru,Indonesia,3676,2.0,-8.108,112.92
+1895,Karkar,Papua New Guinea,1839,2.0,-4.649,145.964
+1904,Karthala,Comoros,2361,2.0,-11.75,43.38
+1906,Vesuvius,Italy,1281,3.0,40.821,14.426
+1928,Etna,Italy,3350,1.0,37.734,15.004
+1929,Calbuco,Chile,2003,3.0,-41.326,-72.614
+1930,Merapi,Indonesia,2947,3.0,-7.542,110.442
+1933,Kuchinoerabu-jima,Japan,649,4.0,30.43,130.22
+1950,Semeru,Indonesia,3676,1.0,-8.108,112.92
+1972,"Fournaise, Piton de la",Reunion,2631,2.0,-21.229,55.713
+1978,Usu,Japan,731,3.0,42.53,140.83
+2002,Reventador,Ecuador,3562,4.0,-0.078,-77.656
+2011,Tungurahua,Ecuador,5023,4.0,-1.467,-78.442
+-455,Cotopaxi,Ecuador,5911,4.0,-0.677,-78.436
+240,Ksudach,Russia,1079,6.0,51.8,157.53
+1362,Oraefajokull,Iceland,2119,5.0,64.0,-16.65
+1385,Kelut,Indonesia,1731,3.0,-7.93,112.308
+1630,Furnas,Portugal,805,4.0,37.77,-25.32
+1669,Etna,Italy,3350,3.0,37.734,15.004
+1670,Aoba,Vanuatu,1496,2.0,-15.4,167.83
+1690,Guntur,Indonesia,2249,3.0,-7.13,107.83
+1766,Mayon,Philippines,2462,3.0,13.257,123.685
+1780,Aoga-shima,Japan,423,3.0,32.45,139.77
+1784,Grimsvotn,Iceland,1725,4.0,64.42,-17.33
+1840,Gamalama,Indonesia,1715,2.0,0.8,127.325
+1878,Rabaul,Papua New Guinea,688,3.0,-4.271,152.203
+1890,Victory,Papua New Guinea,1925,2.0,-9.2,149.07
+1913,Asama,Japan,2560,1.0,36.4,138.53
+1926,Tokachi,Japan,2077,3.0,43.42,142.68
+1932,Fuego,Guatemala,3763,4.0,14.473,-90.88
+1964,Villarrica,Chile,2847,2.0,-39.42,-71.93
+1967,Deception Island,Antarctica,576,3.0,-62.97,-60.65
+1974,Merapi,Indonesia,2947,2.0,-7.542,110.442
+1977,Nyiragongo,"Congo, DRC",3470,1.0,-1.52,29.25
+1988,Lonquimay,Chile,2865,3.0,-38.377,-71.58
+1991,Unzen,Japan,1500,1.0,32.75,130.3
+1993,Guagua Pichincha,Ecuador,4784,1.0,-0.171,-78.598
+2008,Tungurahua,Ecuador,5023,3.0,-1.467,-78.442
+2011,Nabro,Eritrea,2218,3.0,13.37,41.7
+-3580,Taal,Philippines,400,6.0,14.002,120.993
+-2040,Long Island,Papua New Guinea,1280,6.0,-5.358,147.12
+1580,San Jorge,Portugal,1053,3.0,38.65,-28.08
+1581,Fuego,Guatemala,3763,4.0,14.473,-90.88
+1625,Katla,Iceland,1512,5.0,63.63,-19.05
+1660,Teon,Pacific Ocean,655,4.0,-6.92,129.125
+1773,Gamalama,Indonesia,1715,2.0,0.8,127.325
+1779,Vesuvius,Italy,1281,2.0,40.821,14.426
+1801,Chokai,Japan,2237,2.0,39.08,140.03
+1804,Shikotsu,Japan,1320,3.0,42.7,141.33
+1820,Westdahl,United States,1654,2.0,54.52,-164.65
+1845,Hekla,Iceland,1491,4.0,63.98,-19.7
+1867,Zao,Japan,1841,2.0,38.15,140.45
+1870,Aoba,Vanuatu,1496,2.0,-15.4,167.83
+1953,Aso,Japan,1592,2.0,32.88,131.1
+1963,Irazu,Costa Rica,3432,3.0,9.979,-83.852
+1974,Ritter Island,Papua New Guinea,140,1.0,-5.52,148.121
+1986,Merapi,Indonesia,2947,2.0,-7.542,110.442
+1987,Pacaya,Guatemala,2552,3.0,14.381,-90.601
+2000,Miyake-jima,Japan,815,2.0,34.08,139.53
+2006,Mayon,Philippines,2462,1.0,13.257,123.685
+-1860,St. Helens,United States,2549,6.0,46.2,-122.18
+230,Taupo,New Zealand,760,6.0,-38.82,176.0
+1566,Kirishima,Japan,1700,3.0,31.93,130.87
+1597,Hekla,Iceland,1491,4.0,63.98,-19.7
+1640,Tungurahua,Ecuador,5023,3.0,-1.467,-78.442
+1650,Santorini,Greece,329,4.0,36.404,25.396
+1660,Katla,Iceland,1512,4.0,63.63,-19.05
+1672,Merapi,Indonesia,2947,3.0,-7.542,110.442
+1717,Kirishima,Japan,1700,3.0,31.93,130.87
+1741,Oshima-Oshima,Japan,737,4.0,41.5,139.37
+1753,Grimsvotn,Iceland,1725,2.0,64.42,-17.33
+1780,Sakura-jima,Japan,1117,4.0,31.58,130.67
+1817,Raung,Indonesia,3332,4.0,-8.125,114.042
+1833,Kaba,Indonesia,1952,2.0,-3.52,102.62
+1841,Kuchinoerabu-jima,Japan,649,2.0,30.43,130.22
+1843,Liamuiga,St. Kitts & Nevis,1156,0.0,17.37,-62.8
+1871,Ruang,Indonesia,725,2.0,2.28,125.425
+1899,Manam,Papua New Guinea,1807,2.0,-4.1,145.061
+1900,Kirishima,Japan,1700,2.0,31.93,130.87
+1928,Mayon,Philippines,2462,3.0,13.257,123.685
+1937,Rabaul,Papua New Guinea,688,4.0,-4.271,152.203
+1946,Sakura-jima,Japan,1117,2.0,31.58,130.67
+1953,St. Andrew Strait,Papua New Guinea,270,0.0,-2.38,147.35
+1976,Sangay,Ecuador,5230,3.0,-2.03,-78.33
+1977,Kliuchevskoi,Russia,4835,3.0,56.057,160.638
+1992,Karangetang [Api Siau],Indonesia,1784,1.0,2.78,125.48
+1994,Rabaul,Papua New Guinea,688,3.0,-4.271,152.203
+1997,Merapi,Indonesia,2947,2.0,-7.542,110.442
+2005,Manam,Papua New Guinea,1807,4.0,-4.1,145.061
+2015,Manam,Papua New Guinea,1807,2.0,-4.1,145.061
+1262,Katla,Iceland,1512,3.0,63.63,-19.05
+1300,Hekla,Iceland,1491,4.0,63.98,-19.7
+1331,Aso,Japan,1592,2.0,32.88,131.1
+1911,Asama,Japan,2560,2.0,36.4,138.53
+1913,Colima,Mexico,3850,4.0,19.514,-103.62
+1944,Cleveland,United States,1730,3.0,52.82,-169.95
+1952,Myojun Knoll,Japan,360,2.0,32.1,139.85
+1960,Puyehue,Chile,2236,3.0,-40.59,-72.117
+1971,La Palma,Spain,2426,2.0,28.58,-17.83
+1972,Ritter Island,Papua New Guinea,140,1.0,-5.52,148.121
+1979,Soufriere St. Vincent,St. Vincent & the Grenadines,1220,3.0,13.33,-61.18
+1983,Miyake-jima,Japan,815,3.0,34.08,139.53
+1984,Etna,Italy,3350,3.0,37.734,15.004
+1990,Aso,Japan,1592,2.0,32.88,131.1
+1991,Etna,Italy,3350,2.0,37.734,15.004
+1994,Semeru,Indonesia,3676,3.0,-8.108,112.92
+2017,Fuego,Guatemala,3763,2.0,14.473,-90.88
+2018,Aoba,Vanuatu,1496,3.0,-15.4,167.83
+-1010,Tungurahua,Ecuador,5023,5.0,-1.467,-78.442
+1311,Katla,Iceland,1512,4.0,63.63,-19.05
+1587,Merapi,Indonesia,2947,4.0,-7.542,110.442
+1716,Kelut,Indonesia,1731,2.0,-7.93,112.308
+1729,Bardarbunga,Iceland,2000,1.0,64.63,-17.53
+1742,Cotopaxi,Ecuador,5911,3.0,-0.677,-78.436
+1772,Gamalama,Indonesia,1715,3.0,0.8,127.325
+1775,Lokon-Empung,Indonesia,1580,3.0,1.358,124.792
+1840,Ararat,Turkey,5165,3.0,39.7,44.28
+1871,Mayon,Philippines,2462,3.0,13.257,123.685
+1874,Taal,Philippines,400,2.0,14.002,120.993
+1883,Krakatau,Indonesia,813,6.0,-6.102,105.423
+1885,Semeru,Indonesia,3676,2.0,-8.108,112.92
+1919,Mauna Loa,United States,4170,0.0,19.475,-155.608
+1939,Dieng Volc Complex,Indonesia,2565,1.0,-7.2,109.92
+1952,Myojun Knoll,Japan,360,2.0,32.1,139.85
+1952,Ambalatungan Group,Philippines,2329,1.0,17.32,121.1
+1961,Calbuco,Chile,2003,3.0,-41.326,-72.614
+1978,Semeru,Indonesia,3676,3.0,-8.108,112.92
+1986,Stromboli,Italy,926,2.0,38.789,15.213
+1996,Popocatepetl,Mexico,5426,3.0,19.023,-98.622
+2006,Tungurahua,Ecuador,5023,3.0,-1.467,-78.442
+800,Dakataua,Papua New Guinea,400,6.0,-5.056,150.108
+1311,Kelut,Indonesia,1731,3.0,-7.93,112.308
+1410,Nasu,Japan,1917,3.0,37.12,139.97
+1672,Fayal,Portugal,1043,2.0,38.6,-28.73
+1800,Kieyo,Tanzania,2175,2.0,-9.23,33.78
+1803,Asama,Japan,2560,2.0,36.4,138.53
+1856,Awu,Indonesia,1320,3.0,3.67,125.5
+1894,Ambrym,Vanuatu,1334,3.0,-16.25,168.12
+1910,Usu,Japan,731,2.0,42.53,140.83
+1911,Asama,Japan,2560,2.0,36.4,138.53
+1917,San Salvador,El Salvador,1893,3.0,13.736,-89.286
+1923,Kirishima,Japan,1700,2.0,31.93,130.87
+1929,Komaga-take,Japan,1140,4.0,42.07,140.68
+1929,Santa Maria,Guatemala,3772,3.0,14.756,-91.552
+1939,Kick-'em-Jenny,Netherlands,-177,1.0,12.3,-61.63
+1951,Kelut,Indonesia,1731,3.0,-7.93,112.308
+1966,Awu,Indonesia,1320,4.0,3.67,125.5
+1971,Villarrica,Chile,2847,2.0,-39.42,-71.93
+1974,Niigata-Yake-yama,Japan,2400,2.0,36.92,138.03
+1977,Karthala,Comoros,2361,0.0,-11.75,43.38
+1978,Bulusan,Philippines,1565,2.0,12.77,124.05
+1982,"Chichon, El",Mexico,1150,5.0,17.36,-93.228
+2001,Etna,Italy,3350,2.0,37.734,15.004
+2018,Kilauea,United States,1222,1.0,19.425,-155.292
+2018,Krakatau,Indonesia,813,1.0,-6.102,105.423
+50,Ambrym,Vanuatu,1334,6.0,-16.25,168.12
+1568,Savo,Solomon Is.,510,3.0,-9.13,159.82
+1663,Usu,Japan,731,5.0,42.53,140.83
+1755,Katla,Iceland,1512,4.0,63.63,-19.05
+1843,Lamongan,Indonesia,1651,2.0,-8.0,113.342
+1872,Vesuvius,Italy,1281,3.0,40.821,14.426
+1878,Okmok,United States,1073,2.0,53.42,-168.13
+1913,Ambrym,Vanuatu,1334,3.0,-16.25,168.12
+1949,Purace,Colombia,4650,2.0,2.32,-76.4
+1957,Aso,Japan,1592,2.0,32.88,131.1
+1963,Irazu,Costa Rica,3432,3.0,9.979,-83.852
+1971,Fuego,Guatemala,3763,3.0,14.473,-90.88
+1992,"Negro, Cerro",Nicaragua,728,3.0,12.506,-86.702
+2004,Egon,Indonesia,1703,1.0,-8.67,122.45
+-100,Okmok,United States,1073,6.0,53.42,-168.13
+1329,Etna,Italy,3350,3.0,37.734,15.004
+1341,Hekla,Iceland,1491,3.0,63.98,-19.7
+1510,Hekla,Iceland,1491,4.0,63.98,-19.7
+1580,Billy Mitchell,Papua New Guinea,1544,6.0,-6.092,155.225
+1698,Cereme,Indonesia,3078,3.0,-6.892,108.4
+1716,Taal,Philippines,400,4.0,14.002,120.993
+1717,Fuego,Guatemala,3763,3.0,14.473,-90.88
+1721,Katla,Iceland,1512,5.0,63.63,-19.05
+1845,Ruiz,Colombia,5321,3.0,4.895,-75.322
+1895,Kirishima,Japan,1700,2.0,31.93,130.87
+1940,"Lengai, Ol Doinyo",Tanzania,2890,2.0,-2.751,35.902
+1946,Semeru,Indonesia,3676,2.0,-8.108,112.92
+1953,Merapi,Indonesia,2947,3.0,-7.542,110.442
+1961,Asama,Japan,2560,2.0,36.4,138.53
+1962,Tokachi,Japan,2077,3.0,43.42,142.68
+1963,Agung,Indonesia,3142,3.0,-8.342,115.508
+1969,Didicas,Philippines,244,2.0,19.077,122.202
+1997,Karangetang [Api Siau],Indonesia,1784,1.0,2.78,125.48
+2000,Semeru,Indonesia,3676,3.0,-8.108,112.92
+1593,Raung,Indonesia,3332,5.0,-8.125,114.042
+1692,Serua,Pacific Ocean,641,4.0,-6.3,130.0
+1718,Pico,Portugal,2351,2.0,38.47,-28.4
+1866,Santorini,Greece,329,2.0,36.404,25.396
+1877,Mauna Loa,United States,4170,0.0,19.475,-155.608
+1883,Bagana,Papua New Guinea,1750,3.0,-6.14,155.195
+1886,Niuafo'ou,Tonga,260,4.0,-15.6,-175.63
+1896,Kirishima,Japan,1700,2.0,31.93,130.87
+1902,Pelee,Martinique,1397,4.0,14.82,-61.17
+1923,Papandayan,Indonesia,2665,1.0,-7.32,107.73
+1928,Santorini,Greece,329,2.0,36.404,25.396
+1963,Agung,Indonesia,3142,5.0,-8.342,115.508
+1963,Semeru,Indonesia,3676,2.0,-8.108,112.92
+1965,Taal,Philippines,400,4.0,14.002,120.993
+1973,Vestmannaeyjar,Iceland,279,3.0,63.43,-20.28
+1974,Karangetang [Api Siau],Indonesia,1784,3.0,2.78,125.48
+1975,Kilauea,United States,1222,0.0,19.425,-155.292
+1982,"Chichon, El",Mexico,1150,5.0,17.36,-93.228
+1986,Oku Volc Field,Cameroon,3011,3.0,6.25,10.5
+1992,Semeru,Indonesia,3676,3.0,-8.108,112.92
+1994,Yasur,Vanuatu,361,3.0,-19.52,169.425
+2004,Tengger Caldera,Indonesia,2329,2.0,-7.942,112.95
+2008,Kasatochi,United States,314,3.0,52.18,-175.5
+920,Katla,Iceland,1512,4.0,63.63,-19.05
+1104,Hekla,Iceland,1491,5.0,63.98,-19.7
+1151,Krisuvik,Iceland,379,1.0,63.93,-22.1
+1206,Hekla,Iceland,1491,2.0,63.98,-19.7
+1485,Aso,Japan,1592,2.0,32.88,131.1
+1550,Dukono,Indonesia,1185,3.0,1.68,127.88
+1576,Colima,Mexico,3850,3.0,19.514,-103.62
+1580,Katla,Iceland,1512,4.0,63.63,-19.05
+1598,Asama,Japan,2560,2.0,36.4,138.53
+1730,Lanzarote,Spain,670,2.0,29.03,-13.63
+1772,Papandayan,Indonesia,2665,3.0,-7.32,107.73
+1781,Sakura-jima,Japan,1117,4.0,31.58,130.67
+1826,Aso,Japan,1592,2.0,32.88,131.1
+1840,Kilauea,United States,1222,0.0,19.425,-155.292
+1840,Savo,Solomon Is.,510,3.0,-9.13,159.82
+1850,Rabaul,Papua New Guinea,688,2.0,-4.271,152.203
+1861,Dubbi,Eritrea,1625,3.0,13.58,41.808
+1883,Karthala,Comoros,2361,2.0,-11.75,43.38
+1887,Mayon,Philippines,2462,3.0,13.257,123.685
+1890,Makian,Indonesia,1357,2.0,0.32,127.4
+1902,Pelee,Martinique,1397,4.0,14.82,-61.17
+1902,Santa Maria,Guatemala,3772,6.0,14.756,-91.552
+1936,Asama,Japan,2560,3.0,36.4,138.53
+1937,Llaima,Chile,3125,2.0,-38.692,-71.729
+1943,"Azul, Cerro",Ecuador,1690,3.0,-0.9,-91.42
+1951,Lamington,Papua New Guinea,1680,4.0,-8.95,148.15
+1981,Semeru,Indonesia,3676,3.0,-8.108,112.92
+1983,Iliwerung,Indonesia,1018,1.0,-8.54,123.59
+1985,Etna,Italy,3350,1.0,37.734,15.004
+1990,Sabancaya,Peru,5967,3.0,-15.78,-71.85
+1997,Semeru,Indonesia,3676,3.0,-8.108,112.92
+1999,Soufriere Hills,Montserrat,915,3.0,16.72,-62.18
+2000,Merapi,Indonesia,2947,2.0,-7.542,110.442
+2018,Fuego,Guatemala,3763,2.0,14.473,-90.88
+-1900,Black Peak,United States,1032,6.0,56.53,-158.8
+1477,Bardarbunga,Iceland,2000,6.0,64.63,-17.53
+1597,Raung,Indonesia,3332,3.0,-8.125,114.042
+1673,Gamkonora,Indonesia,1635,5.0,1.375,127.52
+1754,Taal,Philippines,400,4.0,14.002,120.993
+1768,Cotopaxi,Ecuador,5911,4.0,-0.677,-78.436
+1792,Unzen,Japan,1500,2.0,32.75,130.3
+1814,Mayon,Philippines,2462,4.0,13.257,123.685
+1815,Tambora,Indonesia,2850,7.0,-8.25,118.0
+1818,Colima,Mexico,3850,4.0,19.514,-103.62
+1854,Alaid,Russia,2339,3.0,50.858,155.55
+1872,Merapi,Indonesia,2947,4.0,-7.542,110.442
+1888,Ritter Island,Papua New Guinea,140,3.0,-5.52,148.121
+1888,Bandai,Japan,1819,4.0,37.6,140.08
+1913,Semeru,Indonesia,3676,2.0,-8.108,112.92
+1916,Tungurahua,Ecuador,5023,4.0,-1.467,-78.442
+1920,Merapi,Indonesia,2947,3.0,-7.542,110.442
+1946,Semeru,Indonesia,3676,2.0,-8.108,112.92
+1948,Iliwerung,Indonesia,1018,2.0,-8.54,123.59
+1950,Camiguin,Philippines,1332,3.0,9.203,124.673
+1950,Asama,Japan,2560,2.0,36.4,138.53
+1956,Bezymianny,Russia,2882,5.0,55.978,160.587
+1958,Kuwae,Vanuatu,-2,2.0,-16.829,168.536
+1967,Semeru,Indonesia,3676,3.0,-8.108,112.92
+1974,Sakura-jima,Japan,1117,3.0,31.58,130.67
+1979,Dieng Volc Complex,Indonesia,2565,1.0,-7.2,109.92
+1984,Mayon,Philippines,2462,3.0,13.257,123.685
+1988,Banda Api,Pacific Ocean,640,3.0,-4.525,129.871
+1993,Krakatau,Indonesia,813,1.0,-6.102,105.423
+1996,Karymsky,Russia,1536,2.0,54.05,159.43
+2006,Bulusan,Philippines,1565,2.0,12.77,124.05
+2007,Manam,Papua New Guinea,1807,4.0,-4.1,145.061
+2018,Etna,Italy,3350,2.0,37.734,15.004
+-1610,Santorini,Greece,329,6.0,36.404,25.396
+540,Rabaul,Papua New Guinea,688,6.0,-4.271,152.203
+1357,Katla,Iceland,1512,4.0,63.63,-19.05
+1586,Kelut,Indonesia,1731,5.0,-7.93,112.308
+1823,Kilauea,United States,1222,0.0,19.425,-155.292
+1832,Merapi,Indonesia,2947,3.0,-7.542,110.442
+1838,Gamalama,Indonesia,1715,2.0,0.8,127.325
+1858,Mayon,Philippines,2462,2.0,13.257,123.685
+1872,Aso,Japan,1592,3.0,32.88,131.1
+1879,Stromboli,Italy,926,2.0,38.789,15.213
+1893,Azuma,Japan,2024,2.0,37.73,140.25
+1918,Banua Wuhu,Indonesia,-5,3.0,3.138,125.491
+1940,Miyake-jima,Japan,815,2.0,34.08,139.53
+1966,Tinakula,Solomon Is.,851,3.0,-10.38,165.8
+1970,Hekla,Iceland,1491,3.0,63.98,-19.7
+1974,Fuego,Guatemala,3763,4.0,14.473,-90.88
+1975,Marapi,Indonesia,2891,2.0,-0.381,100.473
+1977,Krafla,Iceland,650,1.0,65.73,-16.78
+1991,"Hudson, Cerro",Chile,1905,5.0,-45.9,-72.97
+1993,Mayon,Philippines,2462,2.0,13.257,123.685
+2018,Kilauea,United States,1222,1.0,19.425,-155.292
+-4350,Kikai,Japan,717,7.0,30.78,130.28
+800,Bona-Churchill,United States,5005,6.0,61.38,-141.75
+934,Katla,Iceland,1512,4.0,63.63,-19.05
+1389,Hekla,Iceland,1491,3.0,63.98,-19.7
+1471,Sakura-jima,Japan,1117,5.0,31.58,130.67
+1500,Katla,Iceland,1512,4.0,63.63,-19.05
+1590,Colima,Mexico,3850,3.0,19.514,-103.62
+1596,Asama,Japan,2560,2.0,36.4,138.53
+1606,Hachijo-jima,Japan,854,2.0,33.13,139.77
+1712,Bardarbunga,Iceland,2000,2.0,64.63,-17.53
+1716,Bardarbunga,Iceland,2000,2.0,64.63,-17.53
+1737,Vesuvius,Italy,1281,2.0,40.821,14.426
+1779,Sakura-jima,Japan,1117,4.0,31.58,130.67
+1783,Asama,Japan,2560,4.0,36.4,138.53
+1822,Merapi,Indonesia,2947,3.0,-7.542,110.442
+1840,Tinakula,Solomon Is.,851,3.0,-10.38,165.8
+1845,Soputan,Indonesia,1784,2.0,1.108,124.725
+1847,Fogo,Cape Verde,2829,2.0,14.95,-24.35
+1861,Makian,Indonesia,1357,4.0,0.32,127.4
+1903,Okataina,New Zealand,1111,1.0,-38.12,176.5
+1954,Bam,Papua New Guinea,685,2.0,-3.6,144.85
+1962,Gamalama,Indonesia,1715,2.0,0.8,127.325
+1969,Merapi,Indonesia,2947,2.0,-7.542,110.442
+1973,Paluweh,Indonesia,875,3.0,-8.32,121.708
+1974,Sakura-jima,Japan,1117,3.0,31.58,130.67
+1983,Colo [Una Una],Indonesia,507,4.0,-0.17,121.608
+1987,Etna,Italy,3350,2.0,37.734,15.004
+1994,Rinjani,Indonesia,3726,3.0,-8.42,116.47
+1996,Grimsvotn,Iceland,1725,3.0,64.42,-17.33
+1997,Soufriere Hills,Montserrat,915,3.0,16.72,-62.18
+1999,Guagua Pichincha,Ecuador,4784,3.0,-0.171,-78.598
+2001,Merapi,Indonesia,2947,2.0,-7.542,110.442
+2002,Nyiragongo,"Congo, DRC",3470,1.0,-1.52,29.25
+-3550,Pinatubo,Philippines,1486,6.0,15.13,120.35
+-197,Santorini,Greece,329,3.0,36.404,25.396
+1177,Katla,Iceland,1512,3.0,63.63,-19.05
+1595,Ruiz,Colombia,5321,4.0,4.895,-75.322
+1598,Banda Api,Pacific Ocean,640,3.0,-4.525,129.871
+1638,Raung,Indonesia,3332,4.0,-8.125,114.042
+1659,San Salvador,El Salvador,1893,3.0,13.736,-89.286
+1684,Grimsvotn,Iceland,1725,2.0,64.42,-17.33
+1693,Hekla,Iceland,1491,4.0,63.98,-19.7
+1694,Banda Api,Pacific Ocean,640,3.0,-4.525,129.871
+1794,Vesuvius,Italy,1281,3.0,40.821,14.426
+1800,San Jorge,Portugal,1053,1.0,38.65,-28.08
+1816,Aso,Japan,1592,2.0,32.88,131.1
+1817,Ijen,Indonesia,2799,2.0,-8.058,114.242
+1846,E-san,Japan,618,1.0,41.8,141.17
+1889,Banua Wuhu,Indonesia,-5,2.0,3.138,125.491
+1912,Novarupta,United States,841,6.0,58.27,-155.16
+1964,Dieng Volc Complex,Indonesia,2565,1.0,-7.2,109.92
+1965,Kick-'em-Jenny,Netherlands,-177,0.0,12.3,-61.63
+1971,Tinakula,Solomon Is.,851,2.0,-10.38,165.8
+1976,Semeru,Indonesia,3676,2.0,-8.108,112.92
+1976,Karangetang [Api Siau],Indonesia,1784,2.0,2.78,125.48
+1978,Santa Maria,Guatemala,3772,3.0,14.756,-91.552
+1983,Kliuchevskoi,Russia,4835,2.0,56.057,160.638
+1986,Oshima,Japan,758,3.0,34.73,139.38
+1992,Karangetang [Api Siau],Indonesia,1784,2.0,2.78,125.48
+2002,Karangetang [Api Siau],Indonesia,1784,3.0,2.78,125.48
+2013,Paluweh,Indonesia,875,3.0,-8.32,121.708
+2013,Sinabung,Indonesia,2460,2.0,3.17,98.392
+2017,Sinabung,Indonesia,2460,2.0,3.17,98.392
+640,"Uwayrid, Harrat",Saudi Arabia,1900,2.0,27.08,37.25
+1600,Huaynaputina,Peru,4850,6.0,-16.608,-70.85
+1629,Grimsvotn,Iceland,1725,2.0,64.42,-17.33
+1717,Bardarbunga,Iceland,2000,3.0,64.63,-17.53
+1778,Raikoke,Russia,551,4.0,48.292,153.25
+1789,Oshima,Japan,758,2.0,34.73,139.38
+1805,Vesuvius,Italy,1281,2.0,40.821,14.426
+1829,Guntur,Indonesia,2249,2.0,-7.13,107.83
+1853,Unnamed,Taiwan,0,2.0,24.0,121.83
+1854,Aso,Japan,1592,2.0,32.88,131.1
+1860,Semeru,Indonesia,3676,2.0,-8.108,112.92
+1871,Camiguin,Philippines,1332,2.0,9.203,124.673
+1875,Askja,Iceland,1516,5.0,65.03,-16.75
+1886,Tungurahua,Ecuador,5023,4.0,-1.467,-78.442
+1886,Okataina,New Zealand,1111,2.0,-38.12,176.5
+1893,Calbuco,Chile,2003,4.0,-41.326,-72.614
+1951,Camiguin,Philippines,1332,3.0,9.203,124.673
+1953,Myojun Knoll,Japan,360,2.0,32.1,139.85
+1981,Semeru,Indonesia,3676,3.0,-8.108,112.92
+1993,Pinatubo,Philippines,1486,1.0,15.13,120.35
+1996,Kanlaon,Philippines,2435,2.0,10.412,123.132
+1659,Teon,Pacific Ocean,655,4.0,-6.92,129.125
+1729,Krafla,Iceland,650,2.0,65.73,-16.78
+1780,Sakura-jima,Japan,1117,4.0,31.58,130.67
+1854,Shiveluch,Russia,3283,5.0,56.653,161.36
+1860,Fuego,Guatemala,3763,2.0,14.473,-90.88
+1872,Merapi,Indonesia,2947,4.0,-7.542,110.442
+1875,Kelut,Indonesia,1731,0.0,-7.93,112.308
+1909,"Cameroon, Mt.",Cameroon,4095,2.0,4.203,9.17
+1914,Pago,Papua New Guinea,742,3.0,-5.58,150.52
+1917,Okataina,New Zealand,1111,1.0,-38.12,176.5
+1930,Krakatau,Indonesia,813,2.0,-6.102,105.423
+1930,Stromboli,Italy,926,3.0,38.789,15.213
+1946,Sarychev Peak,Russia,1496,4.0,48.092,153.2
+1955,Sakura-jima,Japan,1117,3.0,31.58,130.67
+1990,Kelut,Indonesia,1731,4.0,-7.93,112.308
+1993,Unzen,Japan,1500,1.0,32.75,130.3
+2010,Karangetang [Api Siau],Indonesia,1784,3.0,2.78,125.48
+2019,Manam,Papua New Guinea,1807,4.0,-4.1,145.061
+-1645,Aniakchak,United States,1341,6.0,56.88,-158.17
+1636,Hekla,Iceland,1491,3.0,63.98,-19.7
+1669,Etna,Italy,3350,3.0,37.734,15.004
+1698,Vesuvius,Italy,1281,3.0,40.821,14.426
+1706,Tenerife,Spain,3715,2.0,28.271,-16.641
+1707,Fuji,Japan,3776,4.0,35.35,138.73
+1826,Dieng Volc Complex,Indonesia,2565,2.0,-7.2,109.92
+1832,Etna,Italy,3350,2.0,37.734,15.004
+1835,Cosiguina,Nicaragua,872,5.0,12.98,-87.57
+1871,Gamalama,Indonesia,1715,2.0,0.8,127.325
+1872,Sinarka,Russia,934,4.0,48.875,154.175
+1899,Dona Juana,Colombia,4150,4.0,1.47,-76.92
+1905,Vesuvius,Italy,1281,2.0,40.821,14.426
+1924,Kilauea,United States,1222,2.0,19.425,-155.292
+1931,Asama,Japan,2560,3.0,36.4,138.53
+1947,Mayon,Philippines,2462,2.0,13.257,123.685
+1957,Vsevidof,United States,2149,2.0,53.13,-168.68
+1963,Batur,Indonesia,1717,2.0,-8.242,115.375
+1967,"Lengai, Ol Doinyo",Tanzania,2890,3.0,-2.751,35.902
+1969,Iya,Indonesia,637,3.0,-8.88,121.63
+1988,Semeru,Indonesia,3676,3.0,-8.108,112.92
+1990,Aso,Japan,1592,2.0,32.88,131.1
+1999,Shiveluch,Russia,3283,4.0,56.653,161.36
+1999,Tungurahua,Ecuador,5023,3.0,-1.467,-78.442
+-1050,Pinatubo,Philippines,1486,6.0,15.13,120.35
+764,Sakura-jima,Japan,1117,4.0,31.58,130.67
+766,Sakura-jima,Japan,1117,3.0,31.58,130.67
+1760,Makian,Indonesia,1357,4.0,0.32,127.4
+1766,Hekla,Iceland,1491,4.0,63.98,-19.7
+1790,Kilauea,United States,1222,4.0,19.425,-155.292
+1803,Asama,Japan,2560,2.0,36.4,138.53
+1813,Vesuvius,Italy,1281,2.0,40.821,14.426
+1869,Lamongan,Indonesia,1651,2.0,-8.0,113.342
+1900,Asama,Japan,2560,2.0,36.4,138.53
+1928,Paluweh,Indonesia,875,3.0,-8.32,121.708
+1952,Myojun Knoll,Japan,360,2.0,32.1,139.85
+1953,Sirung,Indonesia,862,0.0,-8.51,124.148
+1963,Villarrica,Chile,2847,2.0,-39.42,-71.93
+1976,Merapi,Indonesia,2947,2.0,-7.542,110.442
+1977,Usu,Japan,731,3.0,42.53,140.83
+1980,St. Helens,United States,2549,5.0,46.2,-122.18
+1985,Ruiz,Colombia,5321,3.0,4.895,-75.322
+1990,Shiveluch,Russia,3283,3.0,56.653,161.36
+1990,Santa Maria,Guatemala,3772,3.0,14.756,-91.552
+1995,Yasur,Vanuatu,361,3.0,-19.52,169.425
+2006,Merapi,Indonesia,2947,1.0,-7.542,110.442
+2010,Eyjafjallajokull,Iceland,1666,2.0,63.63,-19.62
+2010,Tungurahua,Ecuador,5023,3.0,-1.467,-78.442
+2018,Ambrym,Vanuatu,1334,2.0,-16.25,168.12
+-1370,Pago,Papua New Guinea,742,6.0,-5.58,150.52
+79,Vesuvius,Italy,1281,5.0,40.821,14.426
+710,Pago,Papua New Guinea,742,6.0,-5.58,150.52
+1452,Kuwae,Vanuatu,-2,6.0,-16.829,168.536
+1853,Mayon,Philippines,2462,3.0,13.257,123.685
+1872,Merapi,Indonesia,2947,4.0,-7.542,110.442
+1878,Yasur,Vanuatu,361,3.0,-19.52,169.425
+1905,Savai'i,Samoa,1858,2.0,-13.612,-172.525
+1918,Katla,Iceland,1512,4.0,63.63,-19.05
+1944,Stromboli,Italy,926,2.0,38.789,15.213
+1952,Myojun Knoll,Japan,360,2.0,32.1,139.85
+1955,Carran-Los Venados,Chile,1114,4.0,-40.35,-72.07
+1961,Merapi,Indonesia,2947,3.0,-7.542,110.442
+1975,Arenal,Costa Rica,1657,3.0,10.463,-84.703
+1980,Hekla,Iceland,1491,3.0,63.98,-19.7
+1981,Paluweh,Indonesia,875,2.0,-8.32,121.708
+1991,Karthala,Comoros,2361,2.0,-11.75,43.38
+1994,Merapi,Indonesia,2947,3.0,-7.542,110.442
+1995,Yake-dake,Japan,2455,1.0,36.22,137.58
+2003,Soufriere Hills,Montserrat,915,3.0,16.72,-62.18
+2010,Tungurahua,Ecuador,5023,3.0,-1.467,-78.442
