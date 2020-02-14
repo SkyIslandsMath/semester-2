@@ -4,22 +4,22 @@
 39173,"Wood County, Ohio",59789
 24023,"Garrett County, Maryland",49619
 30079,"Prairie County, Montana",47250
-8011,"Bent County, Colorado",34392
+08011,"Bent County, Colorado",34392
 13081,"Crisp County, Georgia",35096
-4027,"Yuma County, Arizona",44058
+04027,"Yuma County, Arizona",44058
 22019,"Calcasieu Parish, Louisiana",49452
 37011,"Avery County, North Carolina",38134
 49015,"Emery County, Utah",52055
 54011,"Cabell County, West Virginia",38321
 20157,"Republic County, Kansas",48022
-5081,"Little River County, Arkansas",45388
+05081,"Little River County, Arkansas",45388
 26049,"Genesee County, Michigan",47006
 72077,"Juncos Municipio, Puerto Rico",18969
 18153,"Sullivan County, Indiana",46517
 31139,"Pierce County, Nebraska",56620
 20119,"Meade County, Kansas",55568
 27025,"Chisago County, Minnesota",80409
-6047,"Merced County, California",50129
+06047,"Merced County, California",50129
 51036,"Charles City County, Virginia",59192
 48219,"Hockley County, Texas",48116
 50011,"Franklin County, Vermont",64258
@@ -32,19 +32,19 @@
 42053,"Forest County, Pennsylvania",38383
 47149,"Rutherford County, Tennessee",63846
 48293,"Limestone County, Texas",42680
-5147,"Woodruff County, Arkansas",31023
+05147,"Woodruff County, Arkansas",31023
 48129,"Donley County, Texas",43224
 16017,"Bonner County, Idaho",48710
 28037,"Franklin County, Mississippi",40810
 29131,"Miller County, Missouri",42718
-6109,"Tuolumne County, California",56493
+06109,"Tuolumne County, California",56493
 31077,"Greeley County, Nebraska",47128
-5105,"Perry County, Arkansas",46071
+05105,"Perry County, Arkansas",46071
 19019,"Buchanan County, Iowa",61409
 29049,"Clinton County, Missouri",58510
 48321,"Matagorda County, Texas",45500
 22095,"St. John the Baptist Parish, Louisiana",54821
-6043,"Mariposa County, California",51199
+06043,"Mariposa County, California",51199
 29139,"Montgomery County, Missouri",45862
 28103,"Noxubee County, Mississippi",36000
 53051,"Pend Oreille County, Washington",48583
@@ -99,17 +99,17 @@
 17025,"Clay County, Illinois",48691
 19125,"Marion County, Iowa",58492
 56021,"Laramie County, Wyoming",64220
-9009,"New Haven County, Connecticut",67128
+09009,"New Haven County, Connecticut",67128
 48387,"Red River County, Texas",37955
 36009,"Cattaraugus County, New York",47240
 48003,"Andrews County, Texas",74233
 18109,"Morgan County, Indiana",62462
 37137,"Pamlico County, North Carolina",44947
-5103,"Ouachita County, Arkansas",34887
-5119,"Pulaski County, Arkansas",50093
+05103,"Ouachita County, Arkansas",34887
+05119,"Pulaski County, Arkansas",50093
 13113,"Fayette County, Georgia",87272
 29199,"Scotland County, Missouri",42965
-5127,"Scott County, Arkansas",35509
+05127,"Scott County, Arkansas",35509
 28127,"Simpson County, Mississippi",37946
 29057,"Dade County, Missouri",39979
 21011,"Bath County, Kentucky",40837
@@ -136,11 +136,11 @@
 42043,"Dauphin County, Pennsylvania",58916
 31105,"Kimball County, Nebraska",43856
 13251,"Screven County, Georgia",37588
-8097,"Pitkin County, Colorado",71244
+08097,"Pitkin County, Colorado",71244
 18123,"Perry County, Indiana",51064
 72087,"Loï¿½za Municipio, Puerto Rico",17402
 51163,"Rockbridge County, Virginia",54805
-2198,"Prince of Wales-Hyder Census Area, Alaska",54191
+02198,"Prince of Wales-Hyder Census Area, Alaska",54191
 47047,"Fayette County, Tennessee",59017
 39015,"Brown County, Ohio",52356
 26005,"Allegan County, Michigan",59883
@@ -156,7 +156,7 @@
 41045,"Malheur County, Oregon",42478
 48317,"Martin County, Texas",69722
 22065,"Madison Parish, Louisiana",27810
-5031,"Craighead County, Arkansas",45868
+05031,"Craighead County, Arkansas",45868
 45053,"Jasper County, South Carolina",41930
 13259,"Stewart County, Georgia",25385
 19041,"Clay County, Iowa",47874
@@ -164,16 +164,16 @@
 28055,"Issaquena County, Mississippi",25776
 48009,"Archer County, Texas",64476
 13265,"Taliaferro County, Georgia",31797
-6031,"Kings County, California",53865
+06031,"Kings County, California",53865
 38021,"Dickey County, North Dakota",60918
 38053,"McKenzie County, North Dakota",80732
 13083,"Dade County, Georgia",44471
 13255,"Spalding County, Georgia",42671
 17109,"McDonough County, Illinois",43724
-8073,"Lincoln County, Colorado",49423
+08073,"Lincoln County, Colorado",49423
 26113,"Missaukee County, Michigan",44766
 39175,"Wyandot County, Ohio",52940
-1033,"Colbert County, Alabama",47558
+01033,"Colbert County, Alabama",47558
 40041,"Delaware County, Oklahoma",39742
 26069,"Iosco County, Michigan",42102
 16063,"Lincoln County, Idaho",48222
@@ -185,17 +185,17 @@
 39119,"Muskingum County, Ohio",45276
 29101,"Johnson County, Missouri",53056
 48455,"Trinity County, Texas",40407
-6075,"San Francisco County, California",104552
+06075,"San Francisco County, California",104552
 17019,"Champaign County, Illinois",51692
 20001,"Allen County, Kansas",42679
 21153,"Magoffin County, Kentucky",29516
-6111,"Ventura County, California",84017
-5023,"Cleburne County, Arkansas",43391
+06111,"Ventura County, California",84017
+05023,"Cleburne County, Arkansas",43391
 49005,"Cache County, Utah",56840
 17097,"Lake County, Illinois",86244
 13167,"Johnson County, Georgia",39813
 31047,"Dawson County, Nebraska",53769
-5091,"Miller County, Arkansas",41903
+05091,"Miller County, Arkansas",41903
 48033,"Borden County, Texas",81985
 56039,"Teton County, Wyoming",83831
 20055,"Finney County, Kansas",56573
@@ -214,15 +214,15 @@
 48279,"Lamb County, Texas",43396
 72003,"Aguada Municipio, Puerto Rico",16347
 47085,"Humphreys County, Tennessee",41510
-6069,"San Benito County, California",81977
+06069,"San Benito County, California",81977
 28121,"Rankin County, Mississippi",64557
 33011,"Hillsborough County, New Hampshire",78655
-2230,"Skagway Municipality, Alaska",72237
+02230,"Skagway Municipality, Alaska",72237
 13311,"White County, Georgia",46288
 20169,"Saline County, Kansas",50515
 16015,"Boise County, Idaho",53942
 38033,"Golden Valley County, North Dakota",56087
-5063,"Independence County, Arkansas",43523
+05063,"Independence County, Arkansas",43523
 20201,"Washington County, Kansas",48889
 19179,"Wapello County, Iowa",45233
 21165,"Menifee County, Kentucky",39905
@@ -231,7 +231,7 @@
 21205,"Rowan County, Kentucky",37639
 51177,"Spotsylvania County, Virginia",85330
 29083,"Henry County, Missouri",43911
-2050,"Bethel Census Area, Alaska",54212
+02050,"Bethel Census Area, Alaska",54212
 17009,"Brown County, Illinois",58762
 12079,"Madison County, Florida",35509
 51067,"Franklin County, Virginia",52639
@@ -256,11 +256,11 @@
 29109,"Lawrence County, Missouri",43373
 37169,"Stokes County, North Carolina",46169
 37019,"Brunswick County, North Carolina",54406
-4013,"Maricopa County, Arizona",61606
+04013,"Maricopa County, Arizona",61606
 20091,"Johnson County, Kansas",84915
 39071,"Highland County, Ohio",43297
 31099,"Kearney County, Nebraska",56952
-6037,"Los Angeles County, California",64251
+06037,"Los Angeles County, California",64251
 48249,"Jim Wells County, Texas",42005
 46049,"Faulk County, South Dakota",53889
 36115,"Washington County, New York",54114
@@ -268,8 +268,8 @@
 47091,"Johnson County, Tennessee",34151
 36021,"Columbia County, New York",63032
 51139,"Page County, Virginia",47951
-5035,"Crittenden County, Arkansas",39002
-8051,"Gunnison County, Colorado",54979
+05035,"Crittenden County, Arkansas",39002
+08051,"Gunnison County, Colorado",54979
 27149,"Stevens County, Minnesota",58363
 29099,"Jefferson County, Missouri",63030
 27103,"Nicollet County, Minnesota",65027
@@ -279,28 +279,28 @@
 40053,"Grant County, Oklahoma",56287
 19101,"Jefferson County, Iowa",43378
 19029,"Cass County, Iowa",48178
-8099,"Prowers County, Colorado",40097
+08099,"Prowers County, Colorado",40097
 24045,"Wicomico County, Maryland",56608
 51115,"Mathews County, Virginia",67009
 21111,"Jefferson County, Kentucky",54357
 48159,"Franklin County, Texas",52944
-8041,"El Paso County, Colorado",65334
+08041,"El Paso County, Colorado",65334
 31121,"Merrick County, Nebraska",54197
-6103,"Tehama County, California",42899
+06103,"Tehama County, California",42899
 39129,"Pickaway County, Ohio",62214
 17151,"Pope County, Illinois",40671
 54105,"Wirt County, West Virginia",40189
 12091,"Okaloosa County, Florida",62048
 21151,"Madison County, Kentucky",48687
 37115,"Madison County, North Carolina",42410
-1133,"Winston County, Alabama",38504
+01133,"Winston County, Alabama",38504
 29187,"St. Francois County, Missouri",45774
 54047,"McDowell County, West Virginia",26547
 37107,"Lenoir County, North Carolina",38387
 31085,"Hayes County, Nebraska",45515
 31177,"Washington County, Nebraska",70753
 55123,"Vernon County, Wisconsin",50905
-1077,"Lauderdale County, Alabama",46265
+01077,"Lauderdale County, Alabama",46265
 19087,"Henry County, Iowa",52428
 40025,"Cimarron County, Oklahoma",46071
 13159,"Jasper County, Georgia",43284
@@ -315,13 +315,13 @@
 20125,"Montgomery County, Kansas",45173
 19015,"Boone County, Iowa",61111
 54075,"Pocahontas County, West Virginia",39702
-1083,"Limestone County, Alabama",56460
+01083,"Limestone County, Alabama",56460
 35027,"Lincoln County, New Mexico",42267
 27073,"Lac qui Parle County, Minnesota",52199
 49049,"Utah County, Utah",70408
 27101,"Murray County, Minnesota",57500
-2275,"Wrangell City and Borough, Alaska",57583
-1107,"Pickens County, Alabama",37458
+02275,"Wrangell City and Borough, Alaska",57583
+01107,"Pickens County, Alabama",37458
 17165,"Saline County, Illinois",41167
 48117,"Deaf Smith County, Texas",51841
 39121,"Noble County, Ohio",47456
@@ -333,11 +333,11 @@
 18021,"Clay County, Indiana",53021
 31185,"York County, Nebraska",59779
 22115,"Vernon Parish, Louisiana",47772
-2100,"Haines Borough, Alaska",64342
+02100,"Haines Borough, Alaska",64342
 48437,"Swisher County, Texas",38418
 13139,"Hall County, Georgia",59898
 29031,"Cape Girardeau County, Missouri",51730
-5099,"Nevada County, Arkansas",37635
+05099,"Nevada County, Arkansas",37635
 54045,"Logan County, West Virginia",38123
 40149,"Washita County, Oklahoma",52510
 72039,"Ciales Municipio, Puerto Rico",15071
@@ -374,7 +374,7 @@
 37145,"Person County, North Carolina",48811
 37099,"Jackson County, North Carolina",44028
 28157,"Wilkinson County, Mississippi",26599
-6045,"Mendocino County, California",49233
+06045,"Mendocino County, California",49233
 53021,"Franklin County, Washington",62002
 29003,"Andrew County, Missouri",55683
 51720,"Norton city, Virginia",28071
@@ -382,16 +382,16 @@
 48095,"Concho County, Texas",43355
 25011,"Franklin County, Massachusetts",59522
 21071,"Floyd County, Kentucky",31267
-1045,"Dale County, Alabama",45960
-6025,"Imperial County, California",45834
+01045,"Dale County, Alabama",45960
+06025,"Imperial County, California",45834
 13033,"Burke County, Georgia",42773
 22071,"Orleans Parish, Louisiana",39576
-6021,"Glenn County, California",47395
+06021,"Glenn County, California",47395
 30055,"McCone County, Montana",47500
 48037,"Bowie County, Texas",47505
-2158,"Kusilvak Census Area, Alaska",35539
-1079,"Lawrence County, Alabama",44515
-1061,"Geneva County, Alabama",38142
+02158,"Kusilvak Census Area, Alaska",35539
+01079,"Lawrence County, Alabama",44515
+01061,"Geneva County, Alabama",38142
 29189,"St. Louis County, Missouri",65300
 54013,"Calhoun County, West Virginia",37610
 21141,"Logan County, Kentucky",43842
@@ -399,12 +399,12 @@
 27017,"Carlton County, Minnesota",60390
 22043,"Grant Parish, Louisiana",40792
 41005,"Clackamas County, Oregon",76597
-5015,"Carroll County, Arkansas",43505
+05015,"Carroll County, Arkansas",43505
 12105,"Polk County, Florida",48500
 22005,"Ascension Parish, Louisiana",76589
 16049,"Idaho County, Idaho",39113
 22069,"Natchitoches Parish, Louisiana",27795
-8003,"Alamosa County, Colorado",39191
+08003,"Alamosa County, Colorado",39191
 51550,"Chesapeake city, Virginia",75790
 46085,"Lyman County, South Dakota",53263
 27001,"Aitkin County, Minnesota",45989
@@ -428,21 +428,21 @@
 72075,"Juana Dï¿½az Municipio, Puerto Rico",20845
 54019,"Fayette County, West Virginia",40379
 47053,"Gibson County, Tennessee",41886
-8015,"Chaffee County, Colorado",54580
+08015,"Chaffee County, Colorado",54580
 13201,"Miller County, Georgia",42927
 20177,"Shawnee County, Kansas",55199
-5059,"Hot Spring County, Arkansas",41262
+05059,"Hot Spring County, Arkansas",41262
 42111,"Somerset County, Pennsylvania",48224
 39099,"Mahoning County, Ohio",44682
 45041,"Florence County, South Carolina",45479
 48405,"San Augustine County, Texas",35509
 16055,"Kootenai County, Idaho",54457
 17111,"McHenry County, Illinois",84803
-1027,"Clay County, Alabama",41225
-5049,"Fulton County, Arkansas",36184
+01027,"Clay County, Alabama",41225
+05049,"Fulton County, Arkansas",36184
 19113,"Linn County, Iowa",64862
 36121,"Wyoming County, New York",57914
-5027,"Columbia County, Arkansas",36148
+05027,"Columbia County, Arkansas",36148
 30077,"Powell County, Montana",49652
 22101,"St. Mary Parish, Louisiana",40485
 48487,"Wilbarger County, Texas",48773
@@ -463,7 +463,7 @@
 20015,"Butler County, Kansas",63272
 42033,"Clearfield County, Pennsylvania",47270
 21113,"Jessamine County, Kentucky",56728
-1085,"Lowndes County, Alabama",30833
+01085,"Lowndes County, Alabama",30833
 13269,"Taylor County, Georgia",33442
 19135,"Monroe County, Iowa",49549
 48235,"Irion County, Texas",54706
@@ -516,14 +516,14 @@
 49023,"Juab County, Utah",62237
 51197,"Wythe County, Virginia",48043
 45025,"Chesterfield County, South Carolina",40033
-8117,"Summit County, Colorado",77589
+08117,"Summit County, Colorado",77589
 29197,"Schuyler County, Missouri",39697
 17067,"Hancock County, Illinois",51549
 31101,"Keith County, Nebraska",48901
 54093,"Tucker County, West Virginia",45655
 47069,"Hardeman County, Tennessee",38651
 20013,"Brown County, Kansas",48547
-1055,"Etowah County, Alabama",44023
+01055,"Etowah County, Alabama",44023
 24037,"St. Mary's County, Maryland",90438
 28045,"Hancock County, Mississippi",47543
 30071,"Phillips County, Montana",46222
@@ -548,9 +548,9 @@
 19003,"Adams County, Iowa",49229
 48255,"Karnes County, Texas",52252
 29135,"Moniteau County, Missouri",54828
-4011,"Greenlee County, Arizona",60962
+04011,"Greenlee County, Arizona",60962
 26137,"Otsego County, Michigan",52645
-8093,"Park County, Colorado",66861
+08093,"Park County, Colorado",66861
 26079,"Kalkaska County, Michigan",46004
 27067,"Kandiyohi County, Minnesota",59089
 20051,"Ellis County, Kansas",52700
@@ -576,7 +576,7 @@
 49001,"Beaver County, Utah",54212
 40013,"Bryan County, Oklahoma",43245
 48295,"Lipscomb County, Texas",57372
-8065,"Lake County, Colorado",46918
+08065,"Lake County, Colorado",46918
 29119,"McDonald County, Missouri",42019
 27087,"Mahnomen County, Minnesota",44537
 48047,"Brooks County, Texas",27378
@@ -600,7 +600,7 @@
 48001,"Anderson County, Texas",43355
 24047,"Worcester County, Maryland",61145
 13207,"Monroe County, Georgia",54050
-1097,"Mobile County, Alabama",46166
+01097,"Mobile County, Alabama",46166
 40061,"Haskell County, Oklahoma",39375
 48305,"Lynn County, Texas",43524
 19175,"Union County, Iowa",47518
@@ -619,30 +619,30 @@
 41027,"Hood River County, Oregon",62935
 51041,"Chesterfield County, Virginia",80214
 55117,"Sheboygan County, Wisconsin",58943
-1123,"Tallapoosa County, Alabama",43361
+01123,"Tallapoosa County, Alabama",43361
 56035,"Sublette County, Wyoming",78680
 21097,"Harrison County, Kentucky",49696
 20165,"Rush County, Kansas",40598
-1005,"Barbour County, Alabama",34186
-2130,"Ketchikan Gateway Borough, Alaska",70356
+01005,"Barbour County, Alabama",34186
+02130,"Ketchikan Gateway Borough, Alaska",70356
 26127,"Oceana County, Michigan",46217
 40017,"Canadian County, Oklahoma",71157
 49019,"Grand County, Utah",48673
 29201,"Scott County, Missouri",42231
-6105,"Trinity County, California",38497
+06105,"Trinity County, California",38497
 53073,"Whatcom County, Washington",59285
 45007,"Anderson County, South Carolina",47906
 39001,"Adams County, Ohio",36894
 20171,"Scott County, Kansas",71394
-5095,"Monroe County, Arkansas",35190
+05095,"Monroe County, Arkansas",35190
 12007,"Bradford County, Florida",46197
 48457,"Tyler County, Texas",43936
 46071,"Jackson County, South Dakota",33438
 26083,"Keweenaw County, Michigan",49779
 38035,"Grand Forks County, North Dakota",51951
 51081,"Greensville County, Virginia",44534
-2016,"Aleutians West Census Area, Alaska",85517
-2068,"Denali Borough, Alaska",84196
+02016,"Aleutians West Census Area, Alaska",85517
+02068,"Denali Borough, Alaska",84196
 39087,"Lawrence County, Ohio",44372
 13197,"Marion County, Georgia",44309
 49045,"Tooele County, Utah",71020
@@ -650,12 +650,12 @@
 32031,"Washoe County, Nevada",61155
 37085,"Harnett County, North Carolina",51630
 55045,"Green County, Wisconsin",62699
-4023,"Santa Cruz County, Arizona",40467
+04023,"Santa Cruz County, Arizona",40467
 42051,"Fayette County, Pennsylvania",44476
 39169,"Wayne County, Ohio",56348
 51710,"Norfolk city, Virginia",49146
 30025,"Fallon County, Montana",60750
-8039,"Elbert County, Colorado",96658
+08039,"Elbert County, Colorado",96658
 13257,"Stephens County, Georgia",43416
 39167,"Washington County, Ohio",48572
 36105,"Sullivan County, New York",56256
@@ -665,11 +665,11 @@
 21117,"Kenton County, Kentucky",61606
 27147,"Steele County, Minnesota",62731
 17181,"Union County, Illinois",49182
-1047,"Dallas County, Alabama",31602
+01047,"Dallas County, Alabama",31602
 47161,"Stewart County, Tennessee",42269
 30063,"Missoula County, Montana",51270
 24510,"Baltimore city, Maryland",48840
-6091,"Sierra County, California",48125
+06091,"Sierra County, California",48125
 31051,"Dixon County, Nebraska",56775
 36109,"Tompkins County, New York",58743
 17015,"Carroll County, Illinois",51228
@@ -679,7 +679,7 @@
 36059,"Nassau County, New York",111240
 39151,"Stark County, Ohio",52190
 53067,"Thurston County, Washington",69592
-2188,"Northwest Arctic Borough, Alaska",62949
+02188,"Northwest Arctic Borough, Alaska",62949
 49009,"Daggett County, Utah",81250
 51079,"Greene County, Virginia",64979
 12073,"Leon County, Florida",51201
@@ -695,13 +695,13 @@
 51065,"Fluvanna County, Virginia",74931
 72015,"Arroyo Municipio, Puerto Rico",16976
 19189,"Winnebago County, Iowa",51002
-2195,"Petersburg Borough, Alaska",66907
+02195,"Petersburg Borough, Alaska",66907
 72045,"Comerï¿½o Municipio, Puerto Rico",12812
 20005,"Atchison County, Kansas",48667
 17121,"Marion County, Illinois",46102
 48015,"Austin County, Texas",65365
 48017,"Bailey County, Texas",46485
-2261,"Valdez-Cordova Census Area, Alaska",82306
+02261,"Valdez-Cordova Census Area, Alaska",82306
 32011,"Eureka County, Nevada",77625
 26105,"Mason County, Michigan",49663
 27143,"Sibley County, Minnesota",62761
@@ -712,12 +712,12 @@
 39037,"Darke County, Ohio",52691
 48353,"Nolan County, Texas",44346
 13105,"Elbert County, Georgia",37943
-4009,"Graham County, Arizona",51352
+04009,"Graham County, Arizona",51352
 21203,"Rockcastle County, Kentucky",36468
 47007,"Bledsoe County, Tennessee",42889
 48063,"Camp County, Texas",42604
 53035,"Kitsap County, Washington",71610
-6029,"Kern County, California",52479
+06029,"Kern County, California",52479
 39111,"Monroe County, Ohio",43956
 48469,"Victoria County, Texas",55631
 19193,"Woodbury County, Iowa",55483
@@ -730,7 +730,7 @@
 55069,"Lincoln County, Wisconsin",56086
 56045,"Weston County, Wyoming",52867
 47131,"Obion County, Tennessee",39866
-1087,"Macon County, Alabama",32074
+01087,"Macon County, Alabama",32074
 21027,"Breckinridge County, Kentucky",48189
 29161,"Phelps County, Missouri",42846
 32029,"Storey County, Nevada",62284
@@ -741,12 +741,12 @@
 26025,"Calhoun County, Michigan",47426
 40011,"Blaine County, Oklahoma",50391
 13229,"Pierce County, Georgia",44167
-8047,"Gilpin County, Colorado",75120
+08047,"Gilpin County, Colorado",75120
 13307,"Webster County, Georgia",35755
 47023,"Chester County, Tennessee",45667
 39163,"Vinton County, Ohio",42114
 27111,"Otter Tail County, Minnesota",57131
-6071,"San Bernardino County, California",60164
+06071,"San Bernardino County, California",60164
 31019,"Buffalo County, Nebraska",56952
 40083,"Logan County, Oklahoma",62035
 18057,"Hamilton County, Indiana",94644
@@ -754,9 +754,9 @@
 19115,"Louisa County, Iowa",53943
 27157,"Wabasha County, Minnesota",65138
 39171,"Williams County, Ohio",49491
-1073,"Jefferson County, Alabama",51979
+01073,"Jefferson County, Alabama",51979
 22051,"Jefferson Parish, Louisiana",52558
-6095,"Solano County, California",77609
+06095,"Solano County, California",77609
 40087,"McClain County, Oklahoma",64492
 13003,"Atkinson County, Georgia",34877
 13055,"Chattooga County, Georgia",36107
@@ -771,7 +771,7 @@
 15003,"Honolulu County, Hawaii",82906
 13093,"Dooly County, Georgia",35629
 48303,"Lubbock County, Texas",50473
-5085,"Lonoke County, Arkansas",57509
+05085,"Lonoke County, Arkansas",57509
 47083,"Houston County, Tennessee",43964
 30029,"Flathead County, Montana",52966
 21083,"Graves County, Kentucky",41615
@@ -798,13 +798,13 @@
 21017,"Bourbon County, Kentucky",51462
 26013,"Baraga County, Michigan",42444
 37053,"Currituck County, North Carolina",66284
-8121,"Washington County, Colorado",49375
+08121,"Washington County, Colorado",49375
 30043,"Jefferson County, Montana",66867
 36005,"Bronx County, New York",38085
 22099,"St. Martin Parish, Louisiana",47974
 20137,"Norton County, Kansas",49891
 16021,"Boundary County, Idaho",43507
-1119,"Sumter County, Alabama",23132
+01119,"Sumter County, Alabama",23132
 47159,"Smith County, Tennessee",46404
 13135,"Gwinnett County, Georgia",67769
 24041,"Talbot County, Maryland",67204
@@ -844,9 +844,9 @@
 30001,"Beaverhead County, Montana",44809
 48091,"Comal County, Texas",75356
 29209,"Stone County, Missouri",46443
-8053,"Hinsdale County, Colorado",52188
+08053,"Hinsdale County, Colorado",52188
 49021,"Iron County, Utah",46809
-5053,"Grant County, Arkansas",51920
+05053,"Grant County, Arkansas",51920
 48163,"Frio County, Texas",42476
 20175,"Seward County, Kansas",47025
 39157,"Tuscarawas County, Ohio",51170
@@ -854,30 +854,30 @@
 17133,"Monroe County, Illinois",81268
 48051,"Burleson County, Texas",56235
 31053,"Dodge County, Nebraska",53101
-5083,"Logan County, Arkansas",39748
+05083,"Logan County, Arkansas",39748
 27167,"Wilkin County, Minnesota",54935
-9007,"Middlesex County, Connecticut",84761
-1003,"Baldwin County, Alabama",55962
-8085,"Montrose County, Colorado",48739
+09007,"Middlesex County, Connecticut",84761
+01003,"Baldwin County, Alabama",55962
+08085,"Montrose County, Colorado",48739
 45079,"Richland County, South Carolina",53922
-4017,"Navajo County, Arizona",40054
+04017,"Navajo County, Arizona",40054
 51187,"Warren County, Virginia",68189
 34011,"Cumberland County, New Jersey",52593
 25017,"Middlesex County, Massachusetts",97012
-8045,"Garfield County, Colorado",72898
+08045,"Garfield County, Colorado",72898
 48059,"Callahan County, Texas",44602
 28075,"Lauderdale County, Mississippi",41704
 49047,"Uintah County, Utah",66736
-1037,"Coosa County, Alabama",38301
+01037,"Coosa County, Alabama",38301
 20109,"Logan County, Kansas",51597
 41043,"Linn County, Oregon",52097
 55139,"Winnebago County, Wisconsin",57124
-5079,"Lincoln County, Arkansas",45166
+05079,"Lincoln County, Arkansas",45166
 55057,"Juneau County, Wisconsin",51056
 20017,"Chase County, Kansas",46295
-2090,"Fairbanks North Star Borough, Alaska",77095
+02090,"Fairbanks North Star Borough, Alaska",77095
 72105,"Naranjito Municipio, Puerto Rico",19332
-1063,"Greene County, Alabama",21804
+01063,"Greene County, Alabama",21804
 19173,"Taylor County, Iowa",48717
 48289,"Leon County, Texas",44818
 40015,"Caddo County, Oklahoma",44588
@@ -905,7 +905,7 @@
 28063,"Jefferson County, Mississippi",20188
 22061,"Lincoln Parish, Louisiana",34154
 55125,"Vilas County, Wisconsin",44285
-2013,"Aleutians East Borough, Alaska",69706
+02013,"Aleutians East Borough, Alaska",69706
 54085,"Ritchie County, West Virginia",44472
 38101,"Ward County, North Dakota",67753
 31025,"Cass County, Nebraska",71139
@@ -914,7 +914,7 @@
 37177,"Tyrrell County, North Carolina",35472
 12097,"Osceola County, Florida",50063
 37055,"Dare County, North Carolina",58012
-2122,"Kenai Peninsula Borough, Alaska",66684
+02122,"Kenai Peninsula Borough, Alaska",66684
 26133,"Osceola County, Michigan",42689
 72103,"Naguabo Municipio, Puerto Rico",19356
 42023,"Cameron County, Pennsylvania",41485
@@ -926,10 +926,10 @@
 37039,"Cherokee County, North Carolina",40294
 42089,"Monroe County, Pennsylvania",63931
 42079,"Luzerne County, Pennsylvania",51646
-5087,"Madison County, Arkansas",43891
+05087,"Madison County, Arkansas",43891
 19071,"Fremont County, Iowa",54281
 45015,"Berkeley County, South Carolina",59995
-8057,"Jackson County, Colorado",48828
+08057,"Jackson County, Colorado",48828
 49033,"Rich County, Utah",49886
 29023,"Butler County, Missouri",39058
 42025,"Carbon County, Pennsylvania",53624
@@ -942,7 +942,7 @@
 50019,"Orleans County, Vermont",47915
 42105,"Potter County, Pennsylvania",42821
 47129,"Morgan County, Tennessee",40166
-1121,"Talladega County, Alabama",41012
+01121,"Talladega County, Alabama",41012
 47121,"Meigs County, Tennessee",43250
 13035,"Butts County, Georgia",41845
 51750,"Radford city, Virginia",36743
@@ -964,7 +964,7 @@
 47105,"Loudon County, Tennessee",56078
 21093,"Hardin County, Kentucky",53168
 21237,"Wolfe County, Kentucky",22458
-5039,"Dallas County, Arkansas",36628
+05039,"Dallas County, Arkansas",36628
 24033,"Prince George's County, Maryland",81969
 18041,"Fayette County, Indiana",43317
 72067,"Hormigueros Municipio, Puerto Rico",19394
@@ -979,7 +979,7 @@
 34041,"Warren County, New Jersey",78145
 13277,"Tift County, Georgia",42790
 48135,"Ector County, Texas",60676
-8014,"Broomfield County, Colorado",89624
+08014,"Broomfield County, Colorado",89624
 30073,"Pondera County, Montana",45458
 19165,"Shelby County, Iowa",55489
 40007,"Beaver County, Oklahoma",51996
@@ -991,7 +991,7 @@
 47165,"Sumner County, Tennessee",64631
 28083,"Leflore County, Mississippi",26052
 51770,"Roanoke city, Virginia",43028
-5077,"Lee County, Arkansas",28367
+05077,"Lee County, Arkansas",28367
 13301,"Warren County, Georgia",34730
 42115,"Susquehanna County, Pennsylvania",53059
 18001,"Adams County, Indiana",51713
@@ -1001,7 +1001,7 @@
 13175,"Laurens County, Georgia",37369
 48195,"Hansford County, Texas",39229
 20135,"Ness County, Kansas",51033
-5021,"Clay County, Arkansas",33935
+05021,"Clay County, Arkansas",33935
 32019,"Lyon County, Nevada",55493
 35031,"McKinley County, New Mexico",31674
 36077,"Otsego County, New York",53121
@@ -1031,7 +1031,7 @@
 16019,"Bonneville County, Idaho",56609
 49057,"Weber County, Utah",64636
 56031,"Platte County, Wyoming",47096
-6059,"Orange County, California",85398
+06059,"Orange County, California",85398
 13085,"Dawson County, Georgia",65805
 19171,"Tama County, Iowa",55898
 48085,"Collin County, Texas",94192
@@ -1043,13 +1043,13 @@
 48361,"Orange County, Texas",55700
 46077,"Kingsbury County, South Dakota",59375
 20037,"Crawford County, Kansas",40174
-1023,"Choctaw County, Alabama",34884
-8019,"Clear Creek County, Colorado",69936
+01023,"Choctaw County, Alabama",34884
+08019,"Clear Creek County, Colorado",69936
 13101,"Echols County, Georgia",34447
-8119,"Teller County, Colorado",65382
+08119,"Teller County, Colorado",65382
 16013,"Blaine County, Idaho",51968
 30009,"Carbon County, Montana",57538
-1089,"Madison County, Alabama",63417
+01089,"Madison County, Alabama",63417
 19159,"Ringgold County, Iowa",52005
 42123,"Warren County, Pennsylvania",48409
 20089,"Jewell County, Kansas",42552
@@ -1075,15 +1075,15 @@
 51149,"Prince George County, Virginia",67001
 40075,"Kiowa County, Oklahoma",38209
 48495,"Winkler County, Texas",59167
-6099,"Stanislaus County, California",57387
+06099,"Stanislaus County, California",57387
 56009,"Converse County, Wyoming",63923
 21105,"Hickman County, Kentucky",40463
-6061,"Placer County, California",84357
+06061,"Placer County, California",84357
 42097,"Northumberland County, Pennsylvania",47063
 48019,"Bandera County, Texas",53683
 33013,"Merrimack County, New Hampshire",72478
 48299,"Llano County, Texas",52178
-8017,"Cheyenne County, Colorado",55227
+08017,"Cheyenne County, Colorado",55227
 53057,"Skagit County, Washington",62865
 47151,"Scott County, Tennessee",35453
 19151,"Pocahontas County, Iowa",49877
@@ -1091,10 +1091,10 @@
 55063,"La Crosse County, Wisconsin",55479
 47055,"Giles County, Tennessee",47528
 37049,"Craven County, North Carolina",50870
-5065,"Izard County, Arkansas",40218
+05065,"Izard County, Arkansas",40218
 17033,"Crawford County, Illinois",49233
 50009,"Essex County, Vermont",41045
-8111,"San Juan County, Colorado",46563
+08111,"San Juan County, Colorado",46563
 29093,"Iron County, Missouri",37188
 12027,"DeSoto County, Florida",35057
 17123,"Marshall County, Illinois",55901
@@ -1106,8 +1106,8 @@
 40133,"Seminole County, Oklahoma",38706
 51017,"Bath County, Virginia",46137
 72081,"Lares Municipio, Puerto Rico",14540
-5115,"Pope County, Arkansas",41914
-1117,"Shelby County, Alabama",75761
+05115,"Pope County, Arkansas",41914
+01117,"Shelby County, Alabama",75761
 29221,"Washington County, Missouri",39621
 37015,"Bertie County, North Carolina",33143
 24001,"Allegany County, Maryland",44065
@@ -1123,14 +1123,14 @@
 25027,"Worcester County, Massachusetts",71895
 30017,"Custer County, Montana",55841
 17061,"Greene County, Illinois",46052
-8043,"Fremont County, Colorado",46296
+08043,"Fremont County, Colorado",46296
 46009,"Bon Homme County, South Dakota",54450
 34009,"Cape May County, New Jersey",63690
 31061,"Franklin County, Nebraska",49235
 51061,"Fauquier County, Virginia",97469
 48223,"Hopkins County, Texas",51877
 55061,"Kewaunee County, Wisconsin",63118
-2282,"Yakutat City and Borough, Alaska",65833
+02282,"Yakutat City and Borough, Alaska",65833
 16043,"Fremont County, Idaho",53311
 28161,"Yalobusha County, Mississippi",41864
 18139,"Rush County, Indiana",50535
@@ -1151,8 +1151,8 @@
 51107,"Loudoun County, Virginia",136268
 37073,"Gates County, North Carolina",52205
 40125,"Pottawatomie County, Oklahoma",47683
-6009,"Calaveras County, California",58151
-4007,"Gila County, Arizona",42092
+06009,"Calaveras County, California",58151
+04007,"Gila County, Arizona",42092
 29186,"Ste. Genevieve County, Missouri",56234
 48267,"Kimble County, Texas",42500
 35061,"Valencia County, New Mexico",45084
@@ -1164,7 +1164,7 @@
 29021,"Buchanan County, Missouri",50457
 30103,"Treasure County, Montana",42292
 18179,"Wells County, Indiana",56265
-4021,"Pinal County, Arizona",55550
+04021,"Pinal County, Arizona",55550
 22021,"Caldwell Parish, Louisiana",32174
 26157,"Tuscola County, Michigan",47694
 20053,"Ellsworth County, Kansas",48188
@@ -1172,7 +1172,7 @@
 47157,"Shelby County, Tennessee",49782
 27045,"Fillmore County, Minnesota",59451
 55083,"Oconto County, Wisconsin",57105
-8013,"Boulder County, Colorado",78642
+08013,"Boulder County, Colorado",78642
 24021,"Frederick County, Maryland",91999
 18165,"Vermillion County, Indiana",48377
 48333,"Mills County, Texas",41827
@@ -1193,7 +1193,7 @@
 53023,"Garfield County, Washington",52525
 46031,"Corson County, South Dakota",35441
 25021,"Norfolk County, Massachusetts",99511
-5129,"Searcy County, Arkansas",36390
+05129,"Searcy County, Arkansas",36390
 48273,"Kleberg County, Texas",42021
 46129,"Walworth County, South Dakota",52123
 13153,"Houston County, Georgia",58770
@@ -1212,7 +1212,7 @@
 13169,"Jones County, Georgia",53155
 13215,"Muscogee County, Georgia",45389
 40101,"Muskogee County, Oklahoma",42689
-8067,"La Plata County, Colorado",64372
+08067,"La Plata County, Colorado",64372
 16047,"Gooding County, Idaho",48638
 20083,"Hodgeman County, Kansas",53854
 17163,"St. Clair County, Illinois",53681
@@ -1227,10 +1227,10 @@
 47173,"Union County, Tennessee",41352
 39063,"Hancock County, Ohio",55644
 20131,"Nemaha County, Kansas",58644
-6007,"Butte County, California",48443
+06007,"Butte County, California",48443
 39139,"Richland County, Ohio",47346
 36033,"Franklin County, New York",51696
-5135,"Sharp County, Arkansas",33708
+05135,"Sharp County, Arkansas",33708
 21023,"Bracken County, Kentucky",45827
 18173,"Warrick County, Indiana",70648
 30015,"Chouteau County, Montana",40942
@@ -1251,11 +1251,11 @@
 22075,"Plaquemines Parish, Louisiana",52386
 29067,"Douglas County, Missouri",34372
 51730,"Petersburg city, Virginia",36135
-5001,"Arkansas County, Arkansas",39466
+05001,"Arkansas County, Arkansas",39466
 13243,"Randolph County, Georgia",30914
 48145,"Falls County, Texas",38032
 39093,"Lorain County, Ohio",56965
-5075,"Lawrence County, Arkansas",38528
+05075,"Lawrence County, Arkansas",38528
 32021,"Mineral County, Nevada",41163
 48397,"Rockwall County, Texas",94767
 48021,"Bastrop County, Texas",62941
@@ -1270,7 +1270,7 @@
 27093,"Meeker County, Minnesota",61856
 27033,"Cottonwood County, Minnesota",53354
 51005,"Alleghany County, Virginia",47794
-1099,"Monroe County, Alabama",30141
+01099,"Monroe County, Alabama",30141
 26089,"Leelanau County, Michigan",63831
 33001,"Belknap County, New Hampshire",68368
 38023,"Divide County, North Dakota",60074
@@ -1282,8 +1282,8 @@
 29133,"Mississippi County, Missouri",32846
 39039,"Defiance County, Ohio",57665
 48243,"Jeff Davis County, Texas",53194
-2220,"Sitka City and Borough, Alaska",71534
-5051,"Garland County, Arkansas",43146
+02220,"Sitka City and Borough, Alaska",71534
+05051,"Garland County, Arkansas",43146
 16029,"Caribou County, Idaho",59611
 12029,"Dixie County, Florida",38237
 36013,"Chautauqua County, New York",45332
@@ -1297,23 +1297,23 @@
 31109,"Lancaster County, Nebraska",58009
 20199,"Wallace County, Kansas",58875
 42133,"York County, Pennsylvania",63902
-1131,"Wilcox County, Alabama",27237
+01131,"Wilcox County, Alabama",27237
 27063,"Jackson County, Minnesota",57010
-8001,"Adams County, Colorado",67575
+08001,"Adams County, Colorado",67575
 13091,"Dodge County, Georgia",35757
 72129,"San Lorenzo Municipio, Puerto Rico",18821
 48271,"Kinney County, Texas",31468
 24043,"Washington County, Maryland",59719
 39165,"Warren County, Ohio",83330
 39049,"Franklin County, Ohio",58762
-5033,"Crawford County, Arkansas",46619
+05033,"Crawford County, Arkansas",46619
 39011,"Auglaize County, Ohio",61758
 47117,"Marshall County, Tennessee",49370
 21063,"Elliott County, Kentucky",33377
 33003,"Carroll County, New Hampshire",61116
 18105,"Monroe County, Indiana",47075
 48443,"Terrell County, Texas",33750
-6081,"San Mateo County, California",113776
+06081,"San Mateo County, California",113776
 54039,"Kanawha County, West Virginia",45426
 48121,"Denton County, Texas",83376
 12127,"Volusia County, Florida",46760
@@ -1328,19 +1328,19 @@
 36079,"Putnam County, New York",102186
 48325,"Medina County, Texas",61059
 26031,"Cheboygan County, Michigan",46161
-1017,"Chambers County, Alabama",39872
+01017,"Chambers County, Alabama",39872
 17041,"Douglas County, Illinois",54218
 51099,"King George County, Virginia",87321
-1111,"Randolph County, Alabama",41449
+01111,"Randolph County, Alabama",41449
 22105,"Tangipahoa Parish, Louisiana",46297
-1013,"Butler County, Alabama",39109
+01013,"Butler County, Alabama",39109
 36089,"St. Lawrence County, New York",49305
 48165,"Gaines County, Texas",59032
 21005,"Anderson County, Kentucky",54160
-5045,"Faulkner County, Arkansas",51930
+05045,"Faulkner County, Arkansas",51930
 55051,"Iron County, Wisconsin",40801
 23003,"Aroostook County, Maine",39824
-1035,"Conecuh County, Alabama",33177
+01035,"Conecuh County, Alabama",33177
 27117,"Pipestone County, Minnesota",52309
 20087,"Jefferson County, Kansas",61793
 21003,"Allen County, Kentucky",40893
@@ -1366,7 +1366,7 @@
 36039,"Greene County, New York",53617
 30007,"Broadwater County, Montana",56469
 13071,"Colquitt County, Georgia",35472
-8061,"Kiowa County, Colorado",39784
+08061,"Kiowa County, Colorado",39784
 13223,"Paulding County, Georgia",66467
 42077,"Lehigh County, Pennsylvania",62178
 54065,"Morgan County, West Virginia",50661
@@ -1389,11 +1389,11 @@
 31111,"Lincoln County, Nebraska",56794
 51047,"Culpeper County, Virginia",73116
 55093,"Pierce County, Wisconsin",72111
-6015,"Del Norte County, California",45258
+06015,"Del Norte County, California",45258
 55133,"Waukesha County, Wisconsin",84331
 38055,"McLean County, North Dakota",65648
 41009,"Columbia County, Oregon",59714
-5009,"Boone County, Arkansas",43262
+05009,"Boone County, Arkansas",43262
 29105,"Laclede County, Missouri",46192
 47057,"Grainger County, Tennessee",42997
 46051,"Grant County, South Dakota",62532
@@ -1410,7 +1410,7 @@
 54067,"Nicholas County, West Virginia",38468
 31065,"Furnas County, Nebraska",47989
 13205,"Mitchell County, Georgia",37027
-4001,"Apache County, Arizona",32963
+04001,"Apache County, Arizona",32963
 13217,"Newton County, Georgia",53309
 35013,"Doï¿½a Ana County, New Mexico",39164
 36031,"Essex County, New York",56196
@@ -1420,7 +1420,7 @@
 28005,"Amite County, Mississippi",31854
 26097,"Mackinac County, Michigan",46507
 48205,"Hartley County, Texas",59280
-6039,"Madera County, California",52884
+06039,"Madera County, California",52884
 72093,"Maricao Municipio, Puerto Rico",13262
 28009,"Benton County, Mississippi",35974
 35007,"Colfax County, New Mexico",33783
@@ -1431,14 +1431,14 @@
 45087,"Union County, South Carolina",40120
 20127,"Morris County, Kansas",50352
 53075,"Whitman County, Washington",42163
-6067,"Sacramento County, California",63902
+06067,"Sacramento County, California",63902
 19131,"Mitchell County, Iowa",55553
 30031,"Gallatin County, Montana",61499
 18157,"Tippecanoe County, Indiana",51844
 12039,"Gadsden County, Florida",40922
 18071,"Jackson County, Indiana",49506
 51173,"Smyth County, Virginia",40425
-8109,"Saguache County, Colorado",34410
+08109,"Saguache County, Colorado",34410
 31001,"Adams County, Nebraska",51536
 34017,"Hudson County, New Jersey",66289
 45013,"Beaufort County, South Carolina",63110
@@ -1447,18 +1447,18 @@
 48089,"Colorado County, Texas",49504
 17013,"Calhoun County, Illinois",54392
 54025,"Greenbrier County, West Virginia",39038
-6073,"San Diego County, California",74855
+06073,"San Diego County, California",74855
 28085,"Lincoln County, Mississippi",40355
 51113,"Madison County, Virginia",54197
-6055,"Napa County, California",84753
+06055,"Napa County, California",84753
 26151,"Sanilac County, Michigan",45277
-8033,"Dolores County, Colorado",41714
+08033,"Dolores County, Colorado",41714
 38083,"Sheridan County, North Dakota",49261
 47101,"Lewis County, Tennessee",37139
 30107,"Wheatland County, Montana",41186
 42003,"Allegheny County, Pennsylvania",58383
 19103,"Johnson County, Iowa",61640
-1109,"Pike County, Alabama",34678
+01109,"Pike County, Alabama",34678
 46005,"Beadle County, South Dakota",51700
 13151,"Henry County, Georgia",68609
 13163,"Jefferson County, Georgia",34300
@@ -1498,7 +1498,7 @@
 31165,"Sioux County, Nebraska",46875
 46025,"Clark County, South Dakota",47798
 28067,"Jones County, Mississippi",41263
-1127,"Walker County, Alabama",41748
+01127,"Walker County, Alabama",41748
 29215,"Texas County, Missouri",35277
 49053,"Washington County, Utah",56877
 20153,"Rawlins County, Kansas",48125
@@ -1506,7 +1506,7 @@
 13115,"Floyd County, Georgia",46367
 18055,"Greene County, Indiana",49177
 31125,"Nance County, Nebraska",45833
-6027,"Inyo County, California",52874
+06027,"Inyo County, California",52874
 40009,"Beckham County, Oklahoma",48725
 45047,"Greenwood County, South Carolina",40982
 21187,"Owen County, Kentucky",45338
@@ -1537,7 +1537,7 @@
 47077,"Henderson County, Tennessee",42430
 18091,"LaPorte County, Indiana",51101
 28061,"Jasper County, Mississippi",35931
-8089,"Otero County, Colorado",34136
+08089,"Otero County, Colorado",34136
 45051,"Horry County, South Carolina",48279
 46097,"Miner County, South Dakota",51394
 20187,"Stanton County, Kansas",46726
@@ -1567,23 +1567,23 @@
 30041,"Hill County, Montana",47141
 13165,"Jenkins County, Georgia",27311
 51147,"Prince Edward County, Virginia",46189
-6019,"Fresno County, California",51261
+06019,"Fresno County, California",51261
 37109,"Lincoln County, North Carolina",53318
 38029,"Emmons County, North Dakota",51029
 51051,"Dickenson County, Virginia",29226
 40103,"Noble County, Oklahoma",53253
 18161,"Union County, Indiana",48227
-1069,"Houston County, Alabama",45496
+01069,"Houston County, Alabama",45496
 28093,"Marshall County, Mississippi",41572
 38003,"Barnes County, North Dakota",57064
 47155,"Sevier County, Tennessee",45943
 48039,"Brazoria County, Texas",79270
-8095,"Phillips County, Colorado",50724
+08095,"Phillips County, Colorado",50724
 47063,"Hamblen County, Tennessee",42589
 29207,"Stoddard County, Missouri",40567
 12035,"Flagler County, Florida",53872
 17059,"Gallatin County, Illinois",42500
-5101,"Newton County, Arkansas",39896
+05101,"Newton County, Arkansas",39896
 33017,"Strafford County, New Hampshire",70650
 47111,"Macon County, Tennessee",36246
 48183,"Gregg County, Texas",49287
@@ -1596,7 +1596,7 @@
 12111,"St. Lucie County, Florida",49373
 39127,"Perry County, Ohio",48811
 29125,"Maries County, Missouri",44436
-8115,"Sedgwick County, Colorado",45188
+08115,"Sedgwick County, Colorado",45188
 16061,"Lewis County, Idaho",41326
 16039,"Elmore County, Idaho",46715
 39053,"Gallia County, Ohio",42113
@@ -1604,9 +1604,9 @@
 42037,"Columbia County, Pennsylvania",49889
 41031,"Jefferson County, Oregon",50339
 31045,"Dawes County, Nebraska",51748
-6107,"Tulare County, California",47518
+06107,"Tulare County, California",47518
 49017,"Garfield County, Utah",52337
-1049,"DeKalb County, Alabama",39233
+01049,"DeKalb County, Alabama",39233
 13303,"Washington County, Georgia",38092
 28065,"Jefferson Davis County, Mississippi",30083
 26071,"Iron County, Michigan",38918
@@ -1619,18 +1619,18 @@
 51145,"Powhatan County, Virginia",83914
 42019,"Butler County, Pennsylvania",68472
 22103,"St. Tammany Parish, Louisiana",67706
-6085,"Santa Clara County, California",116178
+06085,"Santa Clara County, California",116178
 36017,"Chenango County, New York",50595
 30083,"Richland County, Montana",67272
 48337,"Montague County, Texas",51774
 19185,"Wayne County, Iowa",45017
 26007,"Alpena County, Michigan",41991
-8005,"Arapahoe County, Colorado",73925
+08005,"Arapahoe County, Colorado",73925
 17129,"Menard County, Illinois",69102
 18005,"Bartholomew County, Indiana",59045
 13285,"Troup County, Georgia",43850
 18019,"Clark County, Indiana",54240
-5145,"White County, Arkansas",43822
+05145,"White County, Arkansas",43822
 54023,"Grant County, West Virginia",41071
 48109,"Culberson County, Texas",33417
 42099,"Perry County, Pennsylvania",62266
@@ -1655,7 +1655,7 @@
 24025,"Harford County, Maryland",85942
 45067,"Marion County, South Carolina",33046
 37193,"Wilkes County, North Carolina",40829
-6005,"Amador County, California",61198
+06005,"Amador County, California",61198
 38069,"Pierce County, North Dakota",48802
 23011,"Kennebec County, Maine",52929
 32017,"Lincoln County, Nevada",56414
@@ -1672,7 +1672,7 @@
 13129,"Gordon County, Georgia",44313
 17193,"White County, Illinois",47773
 30061,"Mineral County, Montana",41905
-5071,"Johnson County, Arkansas",37170
+05071,"Johnson County, Arkansas",37170
 13195,"Madison County, Georgia",51701
 20149,"Pottawatomie County, Kansas",64657
 28035,"Forrest County, Mississippi",40675
@@ -1688,7 +1688,7 @@
 16009,"Benewah County, Idaho",46507
 27095,"Mille Lacs County, Minnesota",53888
 32013,"Humboldt County, Nevada",70373
-5141,"Van Buren County, Arkansas",36897
+05141,"Van Buren County, Arkansas",36897
 41007,"Clatsop County, Oregon",52583
 48327,"Menard County, Texas",40606
 45023,"Chester County, South Carolina",40080
@@ -1724,9 +1724,9 @@
 22079,"Rapides Parish, Louisiana",44852
 51630,"Fredericksburg city, Virginia",63274
 72023,"Cabo Rojo Municipio, Puerto Rico",16080
-9001,"Fairfield County, Connecticut",92969
+09001,"Fairfield County, Connecticut",92969
 19097,"Jackson County, Iowa",54070
-5097,"Montgomery County, Arkansas",37855
+05097,"Montgomery County, Arkansas",37855
 48433,"Stonewall County, Texas",48000
 13253,"Seminole County, Georgia",34338
 45037,"Edgefield County, South Carolina",49200
@@ -1741,7 +1741,7 @@
 29045,"Clark County, Missouri",47955
 54033,"Harrison County, West Virginia",50433
 47103,"Lincoln County, Tennessee",45736
-6115,"Yuba County, California",52624
+06115,"Yuba County, California",52624
 51191,"Washington County, Virginia",46262
 39123,"Ottawa County, Ohio",57918
 47041,"DeKalb County, Tennessee",44134
@@ -1750,8 +1750,8 @@
 36049,"Lewis County, New York",52380
 22053,"Jefferson Davis Parish, Louisiana",39653
 29223,"Wayne County, Missouri",34391
-8113,"San Miguel County, Colorado",64478
-6017,"El Dorado County, California",80582
+08113,"San Miguel County, Colorado",64478
+06017,"El Dorado County, California",80582
 55137,"Waushara County, Wisconsin",51195
 47123,"Monroe County, Tennessee",38327
 17137,"Morgan County, Illinois",48508
@@ -1771,12 +1771,12 @@
 30091,"Sheridan County, Montana",54321
 26145,"Saginaw County, Michigan",46919
 13245,"Richmond County, Georgia",40644
-8091,"Ouray County, Colorado",62230
+08091,"Ouray County, Colorado",62230
 13131,"Grady County, Georgia",42348
 55005,"Barron County, Wisconsin",50903
 25003,"Berkshire County, Massachusetts",56674
 18059,"Hancock County, Indiana",73142
-6077,"San Joaquin County, California",61145
+06077,"San Joaquin County, California",61145
 31063,"Frontier County, Nebraska",51855
 30099,"Teton County, Montana",51862
 54037,"Jefferson County, West Virginia",76503
@@ -1786,31 +1786,31 @@
 18135,"Randolph County, Indiana",45601
 55135,"Waupaca County, Wisconsin",57680
 48475,"Ward County, Texas",64630
-8007,"Archuleta County, Colorado",50753
+08007,"Archuleta County, Colorado",50753
 53071,"Walla Walla County, Washington",56533
 39033,"Crawford County, Ohio",42892
 29121,"Macon County, Missouri",40007
-5017,"Chicot County, Arkansas",33051
-5149,"Yell County, Arkansas",42361
+05017,"Chicot County, Arkansas",33051
+05149,"Yell County, Arkansas",42361
 38017,"Cass County, North Dakota",62031
 48103,"Crane County, Texas",70398
 72071,"Isabela Municipio, Puerto Rico",16748
 22089,"St. Charles Parish, Louisiana",66620
 26015,"Barry County, Michigan",61016
 12061,"Indian River County, Florida",52336
-5121,"Randolph County, Arkansas",36870
+05121,"Randolph County, Arkansas",36870
 19119,"Lyon County, Iowa",64352
 27099,"Mower County, Minnesota",53665
 41019,"Douglas County, Oregon",45812
 46021,"Campbell County, South Dakota",52500
-6101,"Sutter County, California",56955
-9013,"Tolland County, Connecticut",84916
+06101,"Sutter County, California",56955
+09013,"Tolland County, Connecticut",84916
 18023,"Clinton County, Indiana",52488
 37047,"Columbus County, North Carolina",36398
 56011,"Crook County, Wyoming",64055
 48217,"Hill County, Texas",48823
 19187,"Webster County, Iowa",44261
-6079,"San Luis Obispo County, California",70699
+06079,"San Luis Obispo County, California",70699
 17045,"Edgar County, Illinois",51109
 26165,"Wexford County, Michigan",44166
 46087,"McCook County, South Dakota",62234
@@ -1821,7 +1821,7 @@
 17017,"Cass County, Illinois",51997
 18033,"DeKalb County, Indiana",53808
 72145,"Vega Baja Municipio, Puerto Rico",19096
-1041,"Crenshaw County, Alabama",39812
+01041,"Crenshaw County, Alabama",39812
 27039,"Dodge County, Minnesota",71669
 54029,"Hancock County, West Virginia",45580
 51077,"Grayson County, Virginia",33969
@@ -1846,8 +1846,8 @@
 20039,"Decatur County, Kansas",44104
 41011,"Coos County, Oregon",43308
 21095,"Harlan County, Kentucky",26324
-1031,"Coffee County, Alabama",53155
-9003,"Hartford County, Connecticut",72321
+01031,"Coffee County, Alabama",53155
+09003,"Hartford County, Connecticut",72321
 37195,"Wilson County, North Carolina",42850
 51670,"Hopewell city, Virginia",40497
 42017,"Bucks County, Pennsylvania",86055
@@ -1868,7 +1868,7 @@
 37161,"Rutherford County, North Carolina",40347
 38095,"Towner County, North Dakota",53696
 31083,"Harlan County, Nebraska",50344
-5069,"Jefferson County, Arkansas",38289
+05069,"Jefferson County, Arkansas",38289
 22123,"West Carroll Parish, Louisiana",36528
 22059,"LaSalle Parish, Louisiana",36868
 37069,"Franklin County, North Carolina",53175
@@ -1889,23 +1889,23 @@
 39149,"Shelby County, Ohio",61042
 40019,"Carter County, Oklahoma",49216
 49011,"Davis County, Utah",79690
-1057,"Fayette County, Alabama",37458
+01057,"Fayette County, Alabama",37458
 29073,"Gasconade County, Missouri",53439
 13017,"Ben Hill County, Georgia",32705
 12015,"Charlotte County, Florida",49225
 27059,"Isanti County, Minnesota",72473
 48291,"Liberty County, Texas",49850
 51840,"Winchester city, Virginia",53797
-1081,"Lee County, Alabama",48056
-4005,"Coconino County, Arizona",57616
+01081,"Lee County, Alabama",48056
+04005,"Coconino County, Arizona",57616
 40123,"Pontotoc County, Oklahoma",49235
 51023,"Botetourt County, Virginia",68410
-8063,"Kit Carson County, Colorado",51046
+08063,"Kit Carson County, Colorado",51046
 37095,"Hyde County, North Carolina",45466
-5037,"Cross County, Arkansas",43838
+05037,"Cross County, Arkansas",43838
 38079,"Rolette County, North Dakota",39884
 21225,"Union County, Kentucky",42844
-1095,"Marshall County, Alabama",42490
+01095,"Marshall County, Alabama",42490
 23017,"Oxford County, Maine",47275
 51009,"Amherst County, Virginia",49170
 29143,"New Madrid County, Missouri",35399
@@ -1937,7 +1937,7 @@
 20193,"Thomas County, Kansas",57478
 18093,"Lawrence County, Indiana",52092
 54089,"Summers County, West Virginia",36049
-5043,"Drew County, Arkansas",43014
+05043,"Drew County, Arkansas",43014
 48253,"Jones County, Texas",45694
 20073,"Greenwood County, Kansas",42595
 37181,"Vance County, North Carolina",37282
@@ -1957,7 +1957,7 @@
 36081,"Queens County, New York",64987
 18025,"Crawford County, Indiana",43875
 51161,"Roanoke County, Virginia",65467
-5047,"Franklin County, Arkansas",39463
+05047,"Franklin County, Arkansas",39463
 48005,"Angelina County, Texas",47714
 13019,"Berrien County, Georgia",37163
 40023,"Choctaw County, Oklahoma",32129
@@ -1983,7 +1983,7 @@
 37175,"Transylvania County, North Carolina",46629
 27171,"Wright County, Minnesota",81881
 22125,"West Feliciana Parish, Louisiana",55510
-1115,"St. Clair County, Alabama",54887
+01115,"St. Clair County, Alabama",54887
 55059,"Kenosha County, Wisconsin",60929
 72001,"Adjuntas Municipio, Puerto Rico",12902
 55078,"Menominee County, Wisconsin",43872
@@ -2006,7 +2006,7 @@
 54109,"Wyoming County, West Virginia",40045
 48375,"Potter County, Texas",43157
 54069,"Ohio County, West Virginia",48418
-1015,"Calhoun County, Alabama",45197
+01015,"Calhoun County, Alabama",45197
 48197,"Hardeman County, Texas",42238
 55009,"Brown County, Wisconsin",59963
 49043,"Summit County, Utah",100453
@@ -2014,13 +2014,13 @@
 18137,"Ripley County, Indiana",56295
 41051,"Multnomah County, Oregon",64337
 29075,"Gentry County, Missouri",42689
-5005,"Baxter County, Arkansas",41481
+05005,"Baxter County, Arkansas",41481
 53039,"Klickitat County, Washington",54056
 72123,"Salinas Municipio, Puerto Rico",16887
 20041,"Dickinson County, Kansas",48167
 29163,"Pike County, Missouri",45753
 19007,"Appanoose County, Iowa",41111
-6065,"Riverside County, California",63948
+06065,"Riverside County, California",63948
 19141,"O'Brien County, Iowa",53045
 39097,"Madison County, Ohio",65264
 37083,"Halifax County, North Carolina",34251
@@ -2030,7 +2030,7 @@
 48119,"Delta County, Texas",46138
 38039,"Griggs County, North Dakota",52794
 20123,"Mitchell County, Kansas",45221
-2060,"Bristol Bay Borough, Alaska",84688
+02060,"Bristol Bay Borough, Alaska",84688
 42021,"Cambria County, Pennsylvania",45901
 48359,"Oldham County, Texas",63315
 37173,"Swain County, North Carolina",36773
@@ -2053,7 +2053,7 @@
 13209,"Montgomery County, Georgia",40728
 31029,"Chase County, Nebraska",55833
 48075,"Childress County, Texas",40794
-8079,"Mineral County, Colorado",61058
+08079,"Mineral County, Colorado",61058
 29123,"Madison County, Missouri",41322
 54015,"Clay County, West Virginia",35875
 39091,"Logan County, Ohio",55150
@@ -2062,13 +2062,13 @@
 22027,"Claiborne Parish, Louisiana",27303
 48285,"Lavaca County, Texas",53021
 29027,"Callaway County, Missouri",55376
-6049,"Modoc County, California",45149
+06049,"Modoc County, California",45149
 18145,"Shelby County, Indiana",59214
 53053,"Pierce County, Washington",67868
 27137,"St. Louis County, Minnesota",53344
-5007,"Benton County, Arkansas",64141
+05007,"Benton County, Arkansas",64141
 42071,"Lancaster County, Pennsylvania",63823
-8023,"Costilla County, Colorado",30593
+08023,"Costilla County, Colorado",30593
 22057,"Lafourche Parish, Louisiana",53089
 72049,"Culebra Municipio, Puerto Rico",23802
 42083,"McKean County, Pennsylvania",46953
@@ -2076,7 +2076,7 @@
 21051,"Clay County, Kentucky",26250
 13297,"Walton County, Georgia",58370
 36099,"Seneca County, New York",54695
-6097,"Sonoma County, California",76753
+06097,"Sonoma County, California",76753
 38071,"Ramsey County, North Dakota",57313
 48049,"Brown County, Texas",45457
 48177,"Gonzales County, Texas",53006
@@ -2085,11 +2085,11 @@
 36023,"Cortland County, New York",54489
 72097,"Mayagï¿½ez Municipio, Puerto Rico",14120
 13049,"Charlton County, Georgia",40283
-5123,"St. Francis County, Arkansas",35356
+05123,"St. Francis County, Arkansas",35356
 12031,"Duval County, Florida",53473
 30049,"Lewis and Clark County, Montana",62130
 29039,"Cedar County, Missouri",39412
-2164,"Lake and Peninsula Borough, Alaska",46406
+02164,"Lake and Peninsula Borough, Alaska",46406
 48229,"Hudspeth County, Texas",29318
 21039,"Carlisle County, Kentucky",39664
 21145,"McCracken County, Kentucky",44486
@@ -2125,8 +2125,8 @@
 27041,"Douglas County, Minnesota",60676
 50027,"Windsor County, Vermont",58303
 13015,"Bartow County, Georgia",55452
-5107,"Phillips County, Arkansas",29263
-6013,"Contra Costa County, California",93712
+05107,"Phillips County, Arkansas",29263
+06013,"Contra Costa County, California",93712
 40067,"Jefferson County, Oklahoma",37319
 12123,"Taylor County, Florida",36934
 19095,"Iowa County, Iowa",58570
@@ -2134,7 +2134,7 @@
 17147,"Piatt County, Illinois",69271
 26125,"Oakland County, Michigan",76387
 29065,"Dent County, Missouri",39916
-6087,"Santa Cruz County, California",78041
+06087,"Santa Cruz County, California",78041
 31127,"Nemaha County, Nebraska",51922
 27009,"Benton County, Minnesota",56357
 37179,"Union County, North Carolina",75397
@@ -2161,7 +2161,7 @@
 22063,"Livingston Parish, Louisiana",63159
 54051,"Marshall County, West Virginia",43918
 54017,"Doddridge County, West Virginia",46449
-5117,"Prairie County, Arkansas",41846
+05117,"Prairie County, Arkansas",41846
 48265,"Kerr County, Texas",52473
 39023,"Clark County, Ohio",48502
 44001,"Bristol County, Rhode Island",75578
@@ -2210,7 +2210,7 @@
 72019,"Barranquitas Municipio, Puerto Rico",15970
 46053,"Gregory County, South Dakota",44479
 42041,"Cumberland County, Pennsylvania",68895
-6083,"Santa Barbara County, California",71657
+06083,"Santa Barbara County, California",71657
 31131,"Otoe County, Nebraska",54828
 25007,"Dukes County, Massachusetts",71224
 48489,"Willacy County, Texas",29944
@@ -2219,15 +2219,15 @@
 38025,"Dunn County, North Dakota",70500
 31161,"Sheridan County, Nebraska",41719
 26085,"Lake County, Michigan",34631
-8021,"Conejos County, Colorado",34746
+08021,"Conejos County, Colorado",34746
 16005,"Bannock County, Idaho",49739
 28139,"Tippah County, Mississippi",39839
 48201,"Harris County, Texas",60146
 12019,"Clay County, Florida",62653
-8101,"Pueblo County, Colorado",44634
+08101,"Pueblo County, Colorado",44634
 13031,"Bulloch County, Georgia",41789
 18003,"Allen County, Indiana",53402
-1105,"Perry County, Alabama",23561
+01105,"Perry County, Alabama",23561
 35029,"Luna County, New Mexico",27377
 48311,"McMullen County, Texas",68750
 54071,"Pendleton County, West Virginia",41210
@@ -2249,8 +2249,8 @@
 40093,"Major County, Oklahoma",54118
 27113,"Pennington County, Minnesota",59036
 72027,"Camuy Municipio, Puerto Rico",16831
-5111,"Poinsett County, Arkansas",39277
-2185,"North Slope Borough, Alaska",75431
+05111,"Poinsett County, Arkansas",39277
+02185,"North Slope Borough, Alaska",75431
 20209,"Wyandotte County, Kansas",44873
 34027,"Morris County, New Jersey",111316
 72107,"Orocovis Municipio, Puerto Rico",13319
@@ -2273,10 +2273,10 @@
 42127,"Wayne County, Pennsylvania",54851
 20189,"Stevens County, Kansas",56507
 19081,"Hancock County, Iowa",61167
-1019,"Cherokee County, Alabama",41014
+01019,"Cherokee County, Alabama",41014
 36007,"Broome County, New York",50859
 48471,"Walker County, Texas",41855
-5061,"Howard County, Arkansas",35900
+05061,"Howard County, Arkansas",35900
 26063,"Huron County, Michigan",46320
 28131,"Stone County, Mississippi",44883
 37017,"Bladen County, North Carolina",32378
@@ -2289,9 +2289,9 @@
 55067,"Langlade County, Wisconsin",46557
 40021,"Cherokee County, Oklahoma",40936
 13009,"Baldwin County, Georgia",39426
-5113,"Polk County, Arkansas",37035
-8077,"Mesa County, Colorado",53683
-5057,"Hempstead County, Arkansas",41355
+05113,"Polk County, Arkansas",37035
+08077,"Mesa County, Colorado",53683
+05057,"Hempstead County, Arkansas",41355
 42103,"Pike County, Pennsylvania",64247
 41035,"Klamath County, Oregon",43522
 21055,"Crittenden County, Kentucky",43169
@@ -2300,15 +2300,15 @@
 21049,"Clark County, Kentucky",52938
 26065,"Ingham County, Michigan",50940
 19177,"Van Buren County, Iowa",47083
-1053,"Escambia County, Alabama",35000
+01053,"Escambia County, Alabama",35000
 48203,"Harrison County, Texas",51202
 48419,"Shelby County, Texas",40764
 26107,"Mecosta County, Michigan",44460
 35049,"Santa Fe County, New Mexico",59192
 24009,"Calvert County, Maryland",104301
-1103,"Morgan County, Alabama",49751
+01103,"Morgan County, Alabama",49751
 47185,"White County, Tennessee",40745
-9005,"Litchfield County, Connecticut",78314
+09005,"Litchfield County, Connecticut",78314
 53045,"Mason County, Washington",55726
 18009,"Blackford County, Indiana",42217
 40027,"Cleveland County, Oklahoma",62863
@@ -2335,7 +2335,7 @@
 17073,"Henry County, Illinois",57250
 49035,"Salt Lake County, Utah",71230
 42113,"Sullivan County, Pennsylvania",47346
-8107,"Routt County, Colorado",74273
+08107,"Routt County, Colorado",74273
 48309,"McLennan County, Texas",48199
 50007,"Chittenden County, Vermont",69896
 17043,"DuPage County, Illinois",88711
@@ -2344,8 +2344,8 @@
 48073,"Cherokee County, Texas",46044
 25009,"Essex County, Massachusetts",75878
 48315,"Marion County, Texas",37283
-1065,"Hale County, Alabama",30571
-2180,"Nome Census Area, Alaska",58987
+01065,"Hale County, Alabama",30571
+02180,"Nome Census Area, Alaska",58987
 28151,"Washington County, Mississippi",30834
 28057,"Itawamba County, Mississippi",40510
 38001,"Adams County, North Dakota",54875
@@ -2372,9 +2372,9 @@
 27011,"Big Stone County, Minnesota",51920
 47175,"Van Buren County, Tennessee",37127
 13001,"Appling County, Georgia",39561
-5133,"Sevier County, Arkansas",46667
+05133,"Sevier County, Arkansas",46667
 48057,"Calhoun County, Texas",55469
-6063,"Plumas County, California",53270
+06063,"Plumas County, California",53270
 23005,"Cumberland County, Maine",69708
 48115,"Dawson County, Texas",44657
 12003,"Baker County, Florida",61769
@@ -2387,10 +2387,10 @@
 19069,"Franklin County, Iowa",53742
 13005,"Bacon County, Georgia",36964
 18085,"Kosciusko County, Indiana",58402
-9015,"Windham County, Connecticut",64774
+09015,"Windham County, Connecticut",64774
 19047,"Crawford County, Iowa",53609
 26099,"Macomb County, Michigan",60466
-5055,"Greene County, Arkansas",47497
+05055,"Greene County, Arkansas",47497
 20069,"Gray County, Kansas",64426
 21191,"Pendleton County, Kentucky",52620
 37027,"Caldwell County, North Carolina",42072
@@ -2421,7 +2421,7 @@
 51143,"Pittsylvania County, Virginia",45382
 51095,"James City County, Virginia",83048
 20207,"Woodson County, Kansas",34621
-5067,"Jackson County, Arkansas",33174
+05067,"Jackson County, Arkansas",33174
 13289,"Twiggs County, Georgia",33037
 17183,"Vermilion County, Illinois",45384
 30027,"Fergus County, Montana",50327
@@ -2437,7 +2437,7 @@
 40105,"Nowata County, Oklahoma",41895
 21013,"Bell County, Kentucky",24628
 27107,"Norman County, Minnesota",55206
-5013,"Calhoun County, Arkansas",44022
+05013,"Calhoun County, Arkansas",44022
 51683,"Manassas city, Virginia",78462
 13199,"Meriwether County, Georgia",36351
 26001,"Alcona County, Michigan",39735
@@ -2453,7 +2453,7 @@
 48429,"Stephens County, Texas",45336
 18151,"Steuben County, Indiana",56101
 35039,"Rio Arriba County, New Mexico",
-2020,"Anchorage Municipality, Alaska",83280
+02020,"Anchorage Municipality, Alaska",83280
 42087,"Mifflin County, Pennsylvania",47526
 26075,"Jackson County, Michigan",51431
 26119,"Montmorency County, Michigan",42305
@@ -2461,7 +2461,7 @@
 18073,"Jasper County, Indiana",59574
 51199,"York County, Virginia",90367
 31071,"Garfield County, Nebraska",48545
-8083,"Montezuma County, Colorado",46797
+08083,"Montezuma County, Colorado",46797
 17185,"Wabash County, Illinois",51432
 30035,"Glacier County, Montana",31029
 13119,"Franklin County, Georgia",40198
@@ -2515,7 +2515,7 @@
 36087,"Rockland County, New York",91108
 42129,"Westmoreland County, Pennsylvania",58866
 18119,"Owen County, Indiana",48667
-6093,"Siskiyou County, California",44200
+06093,"Siskiyou County, California",44200
 37031,"Carteret County, North Carolina",54428
 51105,"Lee County, Virginia",32718
 45001,"Abbeville County, South Carolina",36685
@@ -2529,8 +2529,8 @@
 20117,"Marshall County, Kansas",50234
 55047,"Green Lake County, Wisconsin",53260
 54043,"Lincoln County, West Virginia",37679
-1021,"Chilton County, Alabama",45182
-5109,"Pike County, Arkansas",37406
+01021,"Chilton County, Alabama",45182
+05109,"Pike County, Arkansas",37406
 37147,"Pitt County, North Carolina",44315
 54009,"Brooke County, West Virginia",49772
 72007,"Aguas Buenas Municipio, Puerto Rico",17255
@@ -2539,13 +2539,13 @@
 18087,"LaGrange County, Indiana",60675
 31097,"Johnson County, Nebraska",52794
 31143,"Polk County, Nebraska",61962
-1075,"Lamar County, Alabama",36756
+01075,"Lamar County, Alabama",36756
 18101,"Martin County, Indiana",51224
 48031,"Blanco County, Texas",63071
 45019,"Charleston County, South Carolina",61028
 51760,"Richmond city, Virginia",45117
 20203,"Wichita County, Kansas",57566
-8059,"Jefferson County, Colorado",78943
+08059,"Jefferson County, Colorado",78943
 44003,"Kent County, Rhode Island",70223
 41037,"Lake County, Oregon",36627
 40033,"Cotton County, Oklahoma",51623
@@ -2564,18 +2564,18 @@
 20205,"Wilson County, Kansas",46208
 37035,"Catawba County, North Carolina",51157
 22107,"Tensas Parish, Louisiana",23870
-1059,"Franklin County, Alabama",40459
+01059,"Franklin County, Alabama",40459
 48123,"DeWitt County, Texas",53779
 35035,"Otero County, New Mexico",42752
 22073,"Ouachita Parish, Louisiana",41314
 39085,"Lake County, Ohio",63475
 29059,"Dallas County, Missouri",41551
 20093,"Kearny County, Kansas",51314
-6053,"Monterey County, California",66676
+06053,"Monterey County, California",66676
 12033,"Escambia County, Florida",49286
 12057,"Hillsborough County, Florida",56137
 18065,"Henry County, Indiana",48235
-4012,"La Paz County, Arizona",33333
+04012,"La Paz County, Arizona",33333
 40137,"Stephens County, Oklahoma",46166
 21045,"Casey County, Kentucky",34457
 17083,"Jersey County, Illinois",56747
@@ -2585,13 +2585,13 @@
 55015,"Calumet County, Wisconsin",72530
 29071,"Franklin County, Missouri",55312
 48499,"Wood County, Texas",48534
-8075,"Logan County, Colorado",48922
+08075,"Logan County, Colorado",48922
 28073,"Lamar County, Mississippi",58188
 39035,"Cuyahoga County, Ohio",48435
-1001,"Autauga County, Alabama",58786
+01001,"Autauga County, Alabama",58786
 23019,"Penobscot County, Maine",49374
-6035,"Lassen County, California",56362
-5137,"Stone County, Arkansas",36162
+06035,"Lassen County, California",56362
+05137,"Stone County, Arkansas",36162
 51193,"Westmoreland County, Virginia",54268
 37191,"Wayne County, North Carolina",42192
 27121,"Pope County, Minnesota",58132
@@ -2599,7 +2599,7 @@
 42011,"Berks County, Pennsylvania",61522
 41069,"Wheeler County, Oregon",33456
 29211,"Sullivan County, Missouri",42604
-1025,"Clarke County, Alabama",36127
+01025,"Clarke County, Alabama",36127
 46109,"Roberts County, South Dakota",50495
 39105,"Meigs County, Ohio",43591
 20143,"Ottawa County, Kansas",51971
@@ -2611,27 +2611,27 @@
 41061,"Union County, Oregon",48617
 20147,"Phillips County, Kansas",48272
 48461,"Upton County, Texas",52257
-6089,"Shasta County, California",50905
+06089,"Shasta County, California",50905
 41065,"Wasco County, Oregon",50973
-5011,"Bradley County, Arkansas",39510
+05011,"Bradley County, Arkansas",39510
 22023,"Cameron Parish, Louisiana",55000
 12093,"Okeechobee County, Florida",40367
 30111,"Yellowstone County, Montana",59117
 26093,"Livingston County, Michigan",80897
-6023,"Humboldt County, California",45528
+06023,"Humboldt County, California",45528
 21021,"Boyle County, Kentucky",43274
 28159,"Winston County, Mississippi",36214
 40029,"Coal County, Oklahoma",40000
 32003,"Clark County, Nevada",56802
 29107,"Lafayette County, Missouri",54661
 55023,"Crawford County, Wisconsin",48853
-5073,"Lafayette County, Arkansas",32412
+05073,"Lafayette County, Arkansas",32412
 38049,"McHenry County, North Dakota",62637
 39115,"Morgan County, Ohio",41731
 37153,"Richmond County, North Carolina",36091
 48151,"Fisher County, Texas",46827
 13011,"Banks County, Georgia",45373
-6113,"Yolo County, California",65923
+06113,"Yolo County, California",65923
 17127,"Massac County, Illinois",42604
 47153,"Sequatchie County, Tennessee",51750
 39075,"Holmes County, Ohio",62111
@@ -2644,7 +2644,7 @@
 20133,"Neosho County, Kansas",44294
 37081,"Guilford County, North Carolina",51072
 13321,"Worth County, Georgia",46076
-5093,"Mississippi County, Arkansas",37237
+05093,"Mississippi County, Arkansas",37237
 37037,"Chatham County, North Carolina",63531
 13037,"Calhoun County, Georgia",31725
 28049,"Hinds County, Mississippi",43005
@@ -2653,10 +2653,10 @@
 51091,"Highland County, Virginia",46147
 21219,"Todd County, Kentucky",41865
 27061,"Itasca County, Minnesota",53022
-5041,"Desha County, Arkansas",30234
+05041,"Desha County, Arkansas",30234
 13261,"Sumter County, Georgia",36205
 42055,"Franklin County, Pennsylvania",59713
-5029,"Conway County, Arkansas",41196
+05029,"Conway County, Arkansas",41196
 28133,"Sunflower County, Mississippi",30029
 72059,"Guayanilla Municipio, Puerto Rico",16922
 25019,"Nantucket County, Massachusetts",105171
@@ -2671,7 +2671,7 @@
 41033,"Josephine County, Oregon",43046
 48143,"Erath County, Texas",48819
 48403,"Sabine County, Texas",33257
-6001,"Alameda County, California",92574
+06001,"Alameda County, California",92574
 38005,"Benson County, North Dakota",44313
 17087,"Johnson County, Illinois",50923
 17167,"Sangamon County, Illinois",60466
@@ -2696,7 +2696,7 @@
 51610,"Falls Church city, Virginia",124796
 72143,"Vega Alta Municipio, Puerto Rico",18895
 12119,"Sumter County, Florida",55228
-2170,"Matanuska-Susitna Borough, Alaska",75905
+02170,"Matanuska-Susitna Borough, Alaska",75905
 17177,"Stephenson County, Illinois",48016
 18035,"Delaware County, Indiana",42705
 39051,"Fulton County, Ohio",60231
@@ -2704,10 +2704,10 @@
 51165,"Rockingham County, Virginia",59817
 42107,"Schuylkill County, Pennsylvania",49190
 42093,"Montour County, Pennsylvania",57183
-2150,"Kodiak Island Borough, Alaska",78281
+02150,"Kodiak Island Borough, Alaska",78281
 20061,"Geary County, Kansas",49185
 21041,"Carroll County, Kentucky",43258
-8105,"Rio Grande County, Colorado",38639
+08105,"Rio Grande County, Colorado",38639
 51007,"Amelia County, Virginia",58526
 21185,"Oldham County, Kentucky",97597
 20003,"Anderson County, Kansas",46274
@@ -2719,7 +2719,7 @@
 12043,"Glades County, Florida",39879
 42029,"Chester County, Pennsylvania",96726
 29095,"Jackson County, Missouri",52805
-8125,"Yuma County, Colorado",48394
+08125,"Yuma County, Colorado",48394
 26163,"Wayne County, Michigan",45321
 37075,"Graham County, North Carolina",36525
 38011,"Bowman County, North Dakota",65063
@@ -2728,14 +2728,14 @@
 19077,"Guthrie County, Iowa",57075
 35053,"Socorro County, New Mexico",36146
 40121,"Pittsburg County, Oklahoma",45346
-8029,"Delta County, Colorado",44512
-8123,"Weld County, Colorado",70908
+08029,"Delta County, Colorado",44512
+08123,"Weld County, Colorado",70908
 19157,"Poweshiek County, Iowa",53520
 29015,"Benton County, Missouri",38028
 48373,"Polk County, Texas",46182
 18029,"Dearborn County, Indiana",65096
 29213,"Taney County, Missouri",41487
-1091,"Marengo County, Alabama",32809
+01091,"Marengo County, Alabama",32809
 13193,"Macon County, Georgia",31999
 56023,"Lincoln County, Wyoming",64519
 48435,"Sutton County, Texas",60543
@@ -2747,7 +2747,7 @@
 18095,"Madison County, Indiana",47436
 37143,"Perquimans County, North Carolina",45915
 27051,"Grant County, Minnesota",55912
-5143,"Washington County, Arkansas",49629
+05143,"Washington County, Arkansas",49629
 51735,"Poquoson city, Virginia",96831
 27163,"Washington County, Minnesota",92376
 46089,"McPherson County, South Dakota",43804
@@ -2770,7 +2770,7 @@
 19075,"Grundy County, Iowa",66965
 20105,"Lincoln County, Kansas",46196
 13027,"Brooks County, Georgia",34322
-1113,"Russell County, Alabama",40978
+01113,"Russell County, Alabama",40978
 21091,"Hancock County, Kentucky",52019
 18089,"Lake County, Indiana",54249
 29037,"Cass County, Missouri",67659
@@ -2783,9 +2783,9 @@
 40119,"Payne County, Oklahoma",40944
 24003,"Anne Arundel County, Maryland",97810
 56005,"Campbell County, Wyoming",79916
-5089,"Marion County, Arkansas",35518
+05089,"Marion County, Arkansas",35518
 51033,"Caroline County, Virginia",64715
-8031,"Denver County, Colorado",63793
+08031,"Denver County, Colorado",63793
 16079,"Shoshone County, Idaho",39091
 31059,"Fillmore County, Nebraska",55625
 46023,"Charles Mix County, South Dakota",46389
@@ -2796,7 +2796,7 @@
 72117,"Rincï¿½n Municipio, Puerto Rico",21591
 44005,"Newport County, Rhode Island",77237
 31137,"Phelps County, Nebraska",57241
-8049,"Grand County, Colorado",70469
+08049,"Grand County, Colorado",70469
 48465,"Val Verde County, Texas",45521
 19121,"Madison County, Iowa",64512
 72061,"Guaynabo Municipio, Puerto Rico",33937
@@ -2808,12 +2808,12 @@
 48221,"Hood County, Texas",59049
 28099,"Neshoba County, Mississippi",36875
 13123,"Gilmer County, Georgia",49389
-6051,"Mono County, California",63018
+06051,"Mono County, California",63018
 12059,"Holmes County, Florida",38608
 28153,"Wayne County, Mississippi",37970
 34031,"Passaic County, New Jersey",66476
 23031,"York County, Maine",65538
-2110,"Juneau City and Borough, Alaska",88213
+02110,"Juneau City and Borough, Alaska",88213
 27055,"Houston County, Minnesota",58729
 19167,"Sioux County, Iowa",67178
 21215,"Spencer County, Kentucky",77738
@@ -2838,11 +2838,11 @@
 46047,"Fall River County, South Dakota",50837
 19017,"Bremer County, Iowa",68023
 22039,"Evangeline Parish, Louisiana",32180
-1011,"Bullock County, Alabama",32152
-5125,"Saline County, Arkansas",62152
+01011,"Bullock County, Alabama",32152
+05125,"Saline County, Arkansas",62152
 46059,"Hand County, South Dakota",52438
 17011,"Bureau County, Illinois",55940
-4003,"Cochise County, Arizona",48649
+04003,"Cochise County, Arizona",48649
 29157,"Perry County, Missouri",54964
 42001,"Adams County, Pennsylvania",64507
 21089,"Greenup County, Kentucky",49343
@@ -2864,7 +2864,7 @@
 46137,"Ziebach County, South Dakota",37143
 48369,"Parmer County, Texas",54184
 55031,"Douglas County, Wisconsin",52480
-5131,"Sebastian County, Arkansas",43240
+05131,"Sebastian County, Arkansas",43240
 48237,"Jack County, Texas",51700
 19127,"Marshall County, Iowa",54027
 29025,"Caldwell County, Missouri",48033
@@ -2880,24 +2880,24 @@
 36111,"Ulster County, New York",63348
 29113,"Lincoln County, Missouri",61628
 39103,"Medina County, Ohio",74243
-1039,"Covington County, Alabama",40601
+01039,"Covington County, Alabama",40601
 22117,"Washington Parish, Louisiana",34985
 51001,"Accomack County, Virginia",43210
 46061,"Hanson County, South Dakota",63036
 19191,"Winneshiek County, Iowa",62820
 41021,"Gilliam County, Oregon",42976
 72125,"San Germï¿½n Municipio, Puerto Rico",15619
-8037,"Eagle County, Colorado",84685
+08037,"Eagle County, Colorado",84685
 31141,"Platte County, Nebraska",62617
 31043,"Dakota County, Nebraska",55017
 40129,"Roger Mills County, Oklahoma",47667
 46035,"Davison County, South Dakota",47772
-1067,"Henry County, Alabama",48610
+01067,"Henry County, Alabama",48610
 46111,"Sanborn County, South Dakota",54899
 48367,"Parker County, Texas",74625
 49041,"Sevier County, Utah",53020
 39155,"Trumbull County, Ohio",45975
-1129,"Washington County, Alabama",40794
+01129,"Washington County, Alabama",40794
 36085,"Richmond County, New York",79267
 18043,"Floyd County, Indiana",61754
 31033,"Cheyenne County, Nebraska",56538
@@ -2919,10 +2919,10 @@
 72095,"Maunabo Municipio, Puerto Rico",19788
 48071,"Chambers County, Texas",76850
 21169,"Metcalfe County, Kentucky",35809
-9011,"New London County, Connecticut",71368
+09011,"New London County, Connecticut",71368
 55095,"Polk County, Wisconsin",56932
 13177,"Lee County, Georgia",65420
-1071,"Jackson County, Alabama",39816
+01071,"Jackson County, Alabama",39816
 48149,"Fayette County, Texas",56297
 48447,"Throckmorton County, Texas",44196
 46075,"Jones County, South Dakota",41103
@@ -2933,7 +2933,7 @@
 18031,"Decatur County, Indiana",54622
 47109,"McNairy County, Tennessee",36055
 72111,"Peï¿½uelas Municipio, Puerto Rico",17592
-6003,"Alpine County, California",64688
+06003,"Alpine County, California",64688
 36055,"Monroe County, New York",57479
 18061,"Harrison County, Indiana",57132
 38087,"Slope County, North Dakota",63942
@@ -2964,7 +2964,7 @@
 45073,"Oconee County, South Carolina",46056
 19043,"Clayton County, Iowa",52828
 47009,"Blount County, Tennessee",54140
-8027,"Custer County, Colorado",44644
+08027,"Custer County, Colorado",44644
 28101,"Newton County, Mississippi",33831
 31013,"Box Butte County, Nebraska",56412
 17145,"Perry County, Illinois",48298
@@ -2976,7 +2976,7 @@
 48349,"Navarro County, Texas",47920
 40117,"Pawnee County, Oklahoma",47413
 37121,"Mitchell County, North Carolina",44186
-8103,"Rio Blanco County, Colorado",55543
+08103,"Rio Blanco County, Colorado",55543
 51057,"Essex County, Virginia",52681
 48307,"McCulloch County, Texas",45329
 22113,"Vermilion Parish, Louisiana",50690
@@ -2988,39 +2988,39 @@
 22067,"Morehouse Parish, Louisiana",33333
 19183,"Washington County, Iowa",61769
 51153,"Prince William County, Virginia",103445
-2290,"Yukon-Koyukuk Census Area, Alaska",40000
-5025,"Cleveland County, Arkansas",42460
+02290,"Yukon-Koyukuk Census Area, Alaska",40000
+05025,"Cleveland County, Arkansas",42460
 48079,"Cochran County, Texas",42798
 48137,"Edwards County, Texas",40313
 37167,"Stanly County, North Carolina",49590
 44007,"Providence County, Rhode Island",55233
 48035,"Bosque County, Texas",50882
 36045,"Jefferson County, New York",52268
-1029,"Cleburne County, Alabama",40188
+01029,"Cleburne County, Alabama",40188
 24011,"Caroline County, Maryland",54956
 29137,"Monroe County, Missouri",43973
 48247,"Jim Hogg County, Texas",32049
 22081,"Red River Parish, Louisiana",33446
-4015,"Mohave County, Arizona",43266
+04015,"Mohave County, Arizona",43266
 51045,"Craig County, Virginia",55484
 13191,"McIntosh County, Georgia",47114
 46102,"Oglala Lakota County, South Dakota",30347
 17103,"Lee County, Illinois",57901
-6033,"Lake County, California",42475
+06033,"Lake County, California",42475
 18121,"Parke County, Indiana",48788
 19197,"Wright County, Iowa",50198
 29183,"St. Charles County, Missouri",81411
 21007,"Ballard County, Kentucky",44350
-1093,"Marion County, Alabama",35392
-6057,"Nevada County, California",63240
+01093,"Marion County, Alabama",35392
+06057,"Nevada County, California",63240
 12087,"Monroe County, Florida",67023
 54041,"Lewis County, West Virginia",39423
-5003,"Ashley County, Arkansas",39635
+05003,"Ashley County, Arkansas",39635
 17169,"Schuyler County, Illinois",46151
 16045,"Gem County, Idaho",43001
 19139,"Muscatine County, Iowa",57348
 28125,"Sharkey County, Mississippi",28799
-2070,"Dillingham Census Area, Alaska",58750
+02070,"Dillingham Census Area, Alaska",58750
 38073,"Ransom County, North Dakota",61810
 42131,"Wyoming County, Pennsylvania",59308
 16023,"Butte County, Idaho",42250
@@ -3037,7 +3037,7 @@
 12063,"Jackson County, Florida",39002
 27125,"Red Lake County, Minnesota",56588
 51035,"Carroll County, Virginia",43532
-8087,"Morgan County, Colorado",51626
+08087,"Morgan County, Colorado",51626
 28025,"Clay County, Mississippi",35121
 18049,"Fulton County, Indiana",49333
 47075,"Haywood County, Tennessee",38362
@@ -3046,16 +3046,16 @@
 18113,"Noble County, Indiana",55033
 22015,"Bossier Parish, Louisiana",53806
 33007,"Coos County, New Hampshire",45696
-8081,"Moffat County, Colorado",52807
+08081,"Moffat County, Colorado",52807
 27123,"Ramsey County, Minnesota",62304
 47033,"Crockett County, Tennessee",42047
 48505,"Zapata County, Texas",31113
-6011,"Colusa County, California",56704
+06011,"Colusa County, California",56704
 20043,"Doniphan County, Kansas",49338
 22077,"Pointe Coupee Parish, Louisiana",44269
 72121,"Sabana Grande Municipio, Puerto Rico",16846
 21227,"Warren County, Kentucky",52007
-5139,"Union County, Arkansas",44000
+05139,"Union County, Arkansas",44000
 28021,"Claiborne County, Mississippi",26732
 13147,"Hart County, Georgia",41358
 41039,"Lane County, Oregon",49958
@@ -3070,7 +3070,7 @@
 13059,"Clarke County, Georgia",36889
 38077,"Richland County, North Dakota",61990
 51011,"Appomattox County, Virginia",56176
-6041,"Marin County, California",110217
+06041,"Marin County, California",110217
 16033,"Clark County, Idaho",35341
 34021,"Mercer County, New Jersey",79990
 48193,"Hamilton County, Texas",47500
@@ -3082,12 +3082,12 @@
 55001,"Adams County, Wisconsin",43280
 42121,"Venango County, Pennsylvania",47982
 13183,"Long County, Georgia",55439
-1043,"Cullman County, Alabama",42558
+01043,"Cullman County, Alabama",42558
 19123,"Mahaska County, Iowa",52950
 48283,"La Salle County, Texas",51792
 17159,"Richland County, Illinois",48724
 40131,"Rogers County, Oklahoma",62949
-8009,"Baca County, Colorado",37500
+08009,"Baca County, Colorado",37500
 20197,"Wabaunsee County, Kansas",60450
 47013,"Campbell County, Tennessee",38170
 13173,"Lanier County, Georgia",39104
@@ -3099,20 +3099,20 @@
 30085,"Roosevelt County, Montana",42904
 46057,"Hamlin County, South Dakota",65050
 48351,"Newton County, Texas",40950
-2105,"Hoonah-Angoon Census Area, Alaska",63603
+02105,"Hoonah-Angoon Census Area, Alaska",63603
 36025,"Delaware County, New York",48827
 13227,"Pickens County, Georgia",64512
 35001,"Bernalillo County, New Mexico",51643
 26109,"Menominee County, Michigan",45508
 29047,"Clay County, Missouri",68367
 48395,"Robertson County, Texas",54201
-1051,"Elmore County, Alabama",59347
+01051,"Elmore County, Alabama",59347
 18183,"Whitley County, Indiana",61153
-1009,"Blount County, Alabama",48695
+01009,"Blount County, Alabama",48695
 47093,"Knox County, Tennessee",54437
 46101,"Moody County, South Dakota",58167
 39131,"Pike County, Ohio",43729
-8071,"Las Animas County, Colorado",41945
+08071,"Las Animas County, Colorado",41945
 27169,"Winona County, Minnesota",55529
 18013,"Brown County, Indiana",61455
 45003,"Aiken County, South Carolina",50036
@@ -3140,7 +3140,7 @@
 37007,"Anson County, North Carolina",39126
 51071,"Giles County, Virginia",52478
 30033,"Garfield County, Montana",45893
-8035,"Douglas County, Colorado",115314
+08035,"Douglas County, Colorado",115314
 31173,"Thurston County, Nebraska",48149
 37101,"Johnston County, North Carolina",56842
 42125,"Washington County, Pennsylvania",61567
@@ -3150,18 +3150,18 @@
 36097,"Schuyler County, New York",51479
 21137,"Lincoln County, Kentucky",39833
 27161,"Waseca County, Minnesota",55612
-8055,"Huerfano County, Colorado",36705
+08055,"Huerfano County, Colorado",36705
 10005,"Sussex County, Delaware",60853
 38019,"Cavalier County, North Dakota",67591
 41023,"Grant County, Oregon",45357
-8069,"Larimer County, Colorado",67664
+08069,"Larimer County, Colorado",67664
 47181,"Wayne County, Tennessee",38634
 32015,"Lander County, Nevada",93583
 37013,"Beaufort County, North Carolina",43688
-5019,"Clark County, Arkansas",39752
-1007,"Bibb County, Alabama",45340
+05019,"Clark County, Arkansas",39752
+01007,"Bibb County, Alabama",45340
 29203,"Shannon County, Missouri",32180
-2240,"Southeast Fairbanks Census Area, Alaska",71541
+02240,"Southeast Fairbanks Census Area, Alaska",71541
 39029,"Columbiana County, Ohio",46306
 21157,"Marshall County, Kentucky",50731
 51690,"Martinsville city, Virginia",33224
@@ -3178,7 +3178,7 @@
 37067,"Forsyth County, North Carolina",50128
 48335,"Mitchell County, Texas",49670
 42045,"Delaware County, Pennsylvania",71539
-8025,"Crowley County, Colorado",37586
+08025,"Crowley County, Colorado",37586
 29013,"Bates County, Missouri",46186
 20065,"Graham County, Kansas",40769
 18143,"Scott County, Indiana",47123
@@ -3186,7 +3186,7 @@
 12075,"Levy County, Florida",37634
 17199,"Williamson County, Illinois",49053
 72133,"Santa Isabel Municipio, Puerto Rico",17640
-4025,"Yavapai County, Arizona",50180
+04025,"Yavapai County, Arizona",50180
 13067,"Cobb County, Georgia",75153
 32033,"White Pine County, Nevada",62993
 17105,"Livingston County, Illinois",56200
@@ -3195,11 +3195,11 @@
 55021,"Columbia County, Wisconsin",65348
 28087,"Lowndes County, Mississippi",45355
 42075,"Lebanon County, Pennsylvania",59114
-4019,"Pima County, Arizona",51037
+04019,"Pima County, Arizona",51037
 19089,"Howard County, Iowa",52742
 29079,"Grundy County, Missouri",42574
 38093,"Stutsman County, North Dakota",57642
-1101,"Montgomery County, Alabama",47990
+01101,"Montgomery County, Alabama",47990
 17079,"Jasper County, Illinois",54951
 17203,"Woodford County, Illinois",71867
 18039,"Elkhart County, Indiana",55399
@@ -3215,7 +3215,7 @@
 27165,"Watonwan County, Minnesota",51097
 19023,"Butler County, Iowa",55999
 13097,"Douglas County, Georgia",62147
-1125,"Tuscaloosa County, Alabama",52221
+01125,"Tuscaloosa County, Alabama",52221
 38065,"Oliver County, North Dakota",68333
 12081,"Manatee County, Florida",56036
 13181,"Lincoln County, Georgia",41014
