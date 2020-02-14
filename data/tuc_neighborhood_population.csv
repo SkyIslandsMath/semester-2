@@ -1,0 +1,160 @@
+﻿OBJECTID,NAME,Population,Population density,Population Growth Rate
+1,A Mountain,3448,3900,0.34
+2,Adelanto,389,8881.3,0.46
+3,Alvernon Heights,320,4071.2,0.56
+4,Amphi,7464,7482.7,0
+5,Armory Park,1924,6204.5,0.64
+6,Arroyo Chico,3009,3973.9,0.34
+7,Avondale,1636,6510.1,0.78
+8,Balboa Heights,1546,8574.6,1.37
+9,Barrio Anita,372,3031.8,-0.48
+10,Barrio Blue Moon,956,7445.5,-0.53
+11,Barrio Centro,1116,4888.3,0.35
+12,Barrio Hollywood,2611,5391.3,-1.13
+13,Barrio San Antonio,345,1907.1,0.38
+14,Barrio Santa Rosa,1156,4969.9,1.12
+15,Barrio Viejo,822,4172.6,0.67
+16,Bear Canyon,2551,1598.7,0
+17,Blenman-Elm,3233,4456.2,0.37
+18,Broadmoor-Broadway,875,3479.1,0.37
+19,Broadway/Northeast,692,1315.3,0.24
+20,Campbell-Grant,1293,5128.9,0.37
+21,Campus Farm,7696,6896.7,1.12
+22,Catalina Vista,696,2979.5,-0.12
+23,Catalina Vista/Blenman-Elm,90,2752.3,0.37
+24,Houghton South,4804,1449,5.94
+25,Colonia Del Valle,2459,4399.7,1.19
+26,Corbett,6564,6455.5,0.67
+27,Cottonwood Manor,310,7616.7,-0.07
+28,Desert Palms Park,352,3950.6,1.24
+29,Dietz,7888,5395.3,0.73
+30,Dodge Flower,3096,13146.5,0.96
+31,Doolen-Fruitvale,1861,7461.9,-0.03
+32,Drexel Park,2429,10305.5,0.91
+33,Duffy,1207,4816.4,0.82
+34,Dunbar Spring,1096,4538.3,0.03
+35,Eastside,4110,4118.2,-0.16
+36,El Gheko,1804,4232.8,0.02
+37,El Conquistador,170,2916,-0.44
+38,El Cortez,463,6759.1,-0.48
+39,El Montevideo,337,2592.3,0.39
+40,El Presidio,691,3648.4,0.6
+41,El Rio Acres,1986,2110.7,0.13
+42,Elvira,3284,5952.5,0.17
+43,Enchanted Hills,1547,6480.9,0.19
+44,Flowing Wells,9238,2176.8,0.46
+45,Glenn Heights,600,6410.3,0.39
+46,Country Glenn,1448,5764.3,0.21
+47,Groves Lincoln Park,5294,2677.3,-0.03
+48,Harlan Heights,1505,4678.3,-0.1
+49,Old Spanish Trail,3528,3517.4,-0.02
+50,Hedrick Acres,3875,7723.7,1.02
+51,Highland Vista Cinco Via,843,3354.6,0.13
+52,Houghton East,4348,1467.4,0.25
+53,Iron Horse,594,5641,0.11
+54,Ironwood Ridge,161,2927.3,0.55
+55,Jefferson Park,2263,5208.3,-0.05
+56,Julia Keen,5430,6056.2,0.3
+57,Keeling,4763,7431.7,0.13
+58,La Madera,1065,4278.8,0.08
+59,Lakeside Park,5647,6137.4,0.54
+60,Las Vistas,3255,3030.4,0.14
+61,Limberlost,3799,7542.2,0.82
+62,Garden District,6641,6678.4,0.14
+63,Midvale Park,14565,3840.8,0.72
+64,Miracle Manor,3538,9603.7,1.24
+65,Miramonte,3567,7073.2,0.19
+66,Mitman,1274,4968.8,0.64
+67,Mortimore,1272,7110.1,0.38
+68,Mountain First Avenue,1372,5299.3,0.05
+69,Mountain View,1472,5770.3,0.99
+70,Myers,5248,5927.9,0.09
+71,Naylor,1114,4472.1,0.35
+72,North Dodge,2236,8748,0.55
+73,North University,2032,5487.4,-0.19
+74,Oak Flower,2478,7899.3,0.79
+75,Old Fort Lowell,2241,2196.8,0.02
+76,Palo Verde,5602,5656.9,0.18
+77,Panorama Estates,98,1313.7,0
+78,Westside Development,4798,1972.9,0.37
+79,Parkway Terrace,218,4176.2,0.25
+80,Peter Howell,1861,3708.6,0.38
+81,Pie Allen,718,3910.7,0.45
+82,Poets Square,1114,4365.2,-0.04
+83,RillitoBend,1723,3086.7,0.23
+84,Pueblo Gardens,2571,3077.2,0.48
+85,Richland Heights East,578,2271.1,0.32
+86,Richland Heights West,528,2077.9,-0.26
+87,Rillito,1545,5134.6,0.61
+88,Rincon Heights,2271,7037.5,0.51
+89,Rita Ranch,17318,1122.9,0.81
+90,Roberts,2342,5518.4,-0.59
+91,Rose,2195,4500.7,0.18
+92,Rosemont West,1593,4018.7,-0.19
+93,Saguaro Miraflores,690,2540.5,0.02
+94,Sam Hughes,4861,4802.9,0.23
+95,Samos,1027,3890.2,-0.12
+96,San Carlos,186,2064.4,-0.34
+97,San Clemente,708,3683.7,0.23
+98,San Gabriel,884,3586.2,-0.27
+99,San Ignacio Yaqui,598,2547.9,0.13
+100,Santa Cruz Southwest,2922,3460.9,0.25
+101,Santa Rita Park - West Ochoa,2012,5040.1,0.47
+102,Sewell,721,1860.2,-0.82
+103,South Harrison,6496,3840.8,0.12
+104,South Park,3679,2237.3,0.31
+105,Cabrini,2069,8400.3,0.44
+106,Starr Pass,1813,585.6,0.51
+107,Stella Mann,4503,7308.9,0.24
+108,Sunnyside,15450,5593.4,-0.02
+109,Sunset Villa,1292,3660.1,0.35
+110,Swan Way Park,1097,4372.3,-0.41
+111,Terra Del Sol,4630,4637.9,0.26
+112,Thunderbird Heights/Wilmot Desert Esta,955,3751,1.53
+113,Tucson Park West #1,1198,8013.4,0.82
+114,Vista Del Monte,1662,5508.8,-0.14
+115,Wakefield,4733,7491.3,0.13
+116,West University,4548,9125.2,0.05
+117,Western Hills II,1072,5945.6,0.64
+118,Wilshire Heights,337,3390.3,0.98
+119,Rancho Perdido Estates,80,1694.9,2.1
+120,Mesquite Ranch,1829,1465.2,-0.14
+121,Desert Aire/Loma Linda,470,2548.8,0.05
+122,Millville,255,540.3,0
+123,Sombras Del Cerro,0,0,0
+124,Rancho Buena,4545,8920.5,1.19
+125,Rosemont East,226,3735.5,0.64
+126,Udall Park,331,3495.2,0.68
+127,Menlo Park,4867,2168.9,0.79
+128,Silverbell Terrace,163,3292.9,1.27
+129,Broadway Pantano East,5698,5712.9,0.74
+130,Miles,871,4836.2,0.55
+131,Sierra Estates,80,2826.9,-0.13
+132,Silvercroft,329,3323.2,-0.2
+133,Brichta,491,2726.3,0.54
+134,Cherry Avenue,10092,8087.2,0.71
+135,Fairgrounds,2284,3246.2,0.42
+136,Bravo Park Lane,3611,6097.6,1.08
+137,Feldman`s,2524,7375.8,0.57
+138,Sugar Hill,1642,5206.1,0.97
+139,Toumey Park,2374,8676.9,0.71
+140,El Encanto Estates,333,1750.8,0.2
+141,Colonia Solana,284,1126.5,0.43
+142,Winterhaven,596,4613,0.64
+143,Barrio Kroeger Lane,268,3138.2,0.37
+144,Palo Verde Park,4164,4168.2,0.08
+145,Aldea Linda,222,2799.5,0.05
+146,St. Cyrils,2345,5374.7,0.74
+147,Arcadia Rose,389,6264.1,0.54
+148,Saguaro Canyon,644,5210.4,-0.07
+149,Barrio Nopal,6018,6200.9,0.7
+150,Santiago Hills,905,3271.9,0.11
+151,Coronado Heights,1611,9226.8,-0.28
+152,Harold Bell Wright Estates,979,4067.3,1.97
+153,Carriage Park,7262,7255.5,0.47
+154,Copper Vista,2401,9933.8,0.31
+155,West Lamar City Acres,379,2521.6,-0.36
+156,Loma Verde,488,4939.3,-0.26
+157,Downtown,152,448.2,2.41
+158,Barrio Santa Cruz,214,1363.1,0.68
+159,Bonanza,5123,5100,0.16
