@@ -1,320 +1,320 @@
 ﻿geoid,name,population,population.poverty,percent.poverty
-1001,"Autauga County, Alabama",54765,8422,0.153784351
-1003,"Baldwin County, Alabama",204929,21653,0.105660985
-1005,"Barbour County, Alabama",22856,6597,0.288633182
-1007,"Bibb County, Alabama",20468,2863,0.139876881
-1009,"Blount County, Alabama",57082,8220,0.144003364
-1011,"Bullock County, Alabama",9909,3110,0.31385609
-1013,"Butler County, Alabama",19707,4640,0.235449333
-1015,"Calhoun County, Alabama",111981,20819,0.185915468
-1017,"Chambers County, Alabama",33274,5531,0.166225882
-1019,"Cherokee County, Alabama",25501,3827,0.150072546
-1021,"Chilton County, Alabama",43260,8034,0.185714286
-1023,"Choctaw County, Alabama",12875,2864,0.222446602
-1025,"Clarke County, Alabama",23963,6088,0.25405834
-1027,"Clay County, Alabama",13040,2405,0.184432515
-1029,"Cleburne County, Alabama",14659,2719,0.185483321
-1031,"Coffee County, Alabama",50502,7604,0.150568294
-1033,"Colbert County, Alabama",53991,8785,0.162712304
-1035,"Conecuh County, Alabama",12381,2752,0.222276068
-1037,"Coosa County, Alabama",10452,1459,0.139590509
-1039,"Covington County, Alabama",36586,6702,0.183184825
-1041,"Crenshaw County, Alabama",13661,2148,0.157235927
-1043,"Cullman County, Alabama",81016,12831,0.158376123
-1045,"Dale County, Alabama",47854,8798,0.18385088
-1047,"Dallas County, Alabama",39394,12247,0.310884906
-1049,"DeKalb County, Alabama",70215,15500,0.220750552
-1051,"Elmore County, Alabama",76683,9462,0.123391104
-1053,"Escambia County, Alabama",34383,8268,0.240467673
-1055,"Etowah County, Alabama",101536,17524,0.172589032
-1057,"Fayette County, Alabama",16251,3258,0.20047997
-1059,"Franklin County, Alabama",31129,6299,0.202351505
-1061,"Geneva County, Alabama",26177,6282,0.239981663
-1063,"Greene County, Alabama",8344,3225,0.386505273
-1065,"Hale County, Alabama",14648,3809,0.2600355
-1067,"Henry County, Alabama",16770,2270,0.135360763
-1069,"Houston County, Alabama",103287,18913,0.183111137
-1071,"Jackson County, Alabama",51548,10418,0.202102894
-1073,"Jefferson County, Alabama",645154,109707,0.170047772
-1075,"Lamar County, Alabama",13747,2916,0.212119008
-1077,"Lauderdale County, Alabama",90283,13703,0.151778297
-1079,"Lawrence County, Alabama",32879,5508,0.167523343
-1081,"Lee County, Alabama",153342,32815,0.213998774
-1083,"Limestone County, Alabama",90098,12384,0.137450332
-1085,"Lowndes County, Alabama",10099,2820,0.279235568
-1087,"Macon County, Alabama",16688,4302,0.257790029
-1089,"Madison County, Alabama",348232,45960,0.131980978
-1091,"Marengo County, Alabama",19249,4201,0.218245104
-1093,"Marion County, Alabama",29463,5144,0.174591861
-1095,"Marshall County, Alabama",93847,20354,0.21688493
-1097,"Mobile County, Alabama",405635,78208,0.192803875
-1099,"Monroe County, Alabama",21226,6561,0.309102045
-1101,"Montgomery County, Alabama",219767,45479,0.206941898
-1103,"Morgan County, Alabama",117109,17920,0.153019836
-1105,"Perry County, Alabama",8661,3616,0.417503752
-1107,"Pickens County, Alabama",18862,4430,0.234863747
-1109,"Pike County, Alabama",31488,8374,0.265942581
-1111,"Randolph County, Alabama",22073,3912,0.1772301
-1113,"Russell County, Alabama",57108,11491,0.201215241
-1115,"St. Clair County, Alabama",85339,11268,0.132038107
-1117,"Shelby County, Alabama",207934,17557,0.084435446
-1119,"Sumter County, Alabama",12102,3792,0.313336639
-1121,"Talladega County, Alabama",77204,15401,0.199484483
-1123,"Tallapoosa County, Alabama",40078,8131,0.202879385
-1125,"Tuscaloosa County, Alabama",195629,34058,0.174094843
-1127,"Walker County, Alabama",63468,12525,0.197343543
-1129,"Washington County, Alabama",16382,3446,0.210352826
-1131,"Wilcox County, Alabama",10476,3254,0.310614738
-1133,"Winston County, Alabama",23509,3817,0.16236335
-2013,"Aleutians East Borough, Alaska",3415,525,0.153733529
-2016,"Aleutians West Census Area, Alaska",5522,472,0.085476277
-2020,"Anchorage Municipality, Alaska",288946,26498,0.091705717
-2050,"Bethel Census Area, Alaska",17542,4871,0.277676434
-2060,"Bristol Bay Borough, Alaska",863,50,0.057937428
-2068,"Denali Borough, Alaska",2177,369,0.169499311
-2070,"Dillingham Census Area, Alaska",4923,849,0.17245582
-2090,"Fairbanks North Star Borough, Alaska",95430,7749,0.08120088
-2100,"Haines Borough, Alaska",2479,224,0.090359016
-2105,"Hoonah-Angoon Census Area, Alaska",2131,207,0.097137494
-2110,"Juneau City and Borough, Alaska",31799,2514,0.07905909
-2122,"Kenai Peninsula Borough, Alaska",56934,6827,0.119910774
-2130,"Ketchikan Gateway Borough, Alaska",13585,1433,0.10548399
-2150,"Kodiak Island Borough, Alaska",13373,1243,0.092948478
-2158,"Kusilvak Census Area, Alaska",8148,3296,0.404516446
-2164,"Lake and Peninsula Borough, Alaska",1366,217,0.15885798
-2170,"Matanuska-Susitna Borough, Alaska",101349,10476,0.103365598
-2180,"Nome Census Area, Alaska",9599,2221,0.231378269
-2185,"North Slope Borough, Alaska",9682,904,0.093369139
-2188,"Northwest Arctic Borough, Alaska",7656,1921,0.250914316
-2195,"Petersburg Borough, Alaska",3242,267,0.08235657
-2198,"Prince of Wales-Hyder Census Area, Alaska",6415,972,0.151519875
-2220,"Sitka City and Borough, Alaska",8554,639,0.074701894
-2230,"Skagway Municipality, Alaska",1054,56,0.05313093
-2240,"Southeast Fairbanks Census Area, Alaska",6789,730,0.107526882
-2261,"Valdez-Cordova Census Area, Alaska",9181,747,0.081363686
-2275,"Wrangell City and Borough, Alaska",2463,192,0.077953715
-2282,"Yakutat City and Borough, Alaska",689,46,0.066763425
-2290,"Yukon-Koyukuk Census Area, Alaska",5368,1350,0.251490313
-4001,"Apache County, Arizona",70184,24761,0.352801208
-4003,"Cochise County, Arizona",117265,20192,0.172191191
-4005,"Coconino County, Arizona",127640,24168,0.189345033
-4007,"Gila County, Arizona",52501,11807,0.224890954
-4009,"Graham County, Arizona",33458,7122,0.212863889
-4011,"Greenlee County, Arizona",9385,1115,0.118806606
-4012,"La Paz County, Arizona",20402,4507,0.220909715
-4013,"Maricopa County, Arizona",4198378,618496,0.147317845
-4015,"Mohave County, Arizona",201965,35296,0.174762954
-4017,"Navajo County, Arizona",105735,30163,0.285269778
-4019,"Pima County, Arizona",991092,176222,0.177805895
-4021,"Pinal County, Arizona",392300,55859,0.142388478
-4023,"Santa Cruz County, Arizona",46214,11080,0.239754187
-4025,"Yavapai County, Arizona",220076,30813,0.140010724
-4027,"Yuma County, Arizona",202390,40591,0.200558328
-5001,"Arkansas County, Arkansas",17786,3563,0.200326099
-5003,"Ashley County, Arkansas",20352,4110,0.201945755
-5005,"Baxter County, Arkansas",40634,5676,0.139685977
-5007,"Benton County, Arkansas",255849,25356,0.099105332
-5009,"Boone County, Arkansas",36646,5455,0.148856628
-5011,"Bradley County, Arkansas",10822,2513,0.23221216
-5013,"Calhoun County, Arkansas",5061,788,0.155700454
-5015,"Carroll County, Arkansas",27597,4141,0.150052542
-5017,"Chicot County, Arkansas",10151,2962,0.291793912
-5019,"Clark County, Arkansas",19658,3887,0.197731204
-5021,"Clay County, Arkansas",14854,3352,0.225663121
-5023,"Cleburne County, Arkansas",24850,3631,0.1461167
-5025,"Cleveland County, Arkansas",8118,1574,0.193890121
-5027,"Columbia County, Arkansas",22080,5563,0.251947464
-5029,"Conway County, Arkansas",20694,3772,0.182275056
-5031,"Craighead County, Arkansas",101577,18667,0.183771917
-5033,"Crawford County, Arkansas",61706,9830,0.159303795
-5035,"Crittenden County, Arkansas",48299,10709,0.221723017
-5037,"Cross County, Arkansas",16694,2793,0.167305619
-5039,"Dallas County, Arkansas",6652,948,0.14251353
-5041,"Desha County, Arkansas",11702,3401,0.29063408
-5043,"Drew County, Arkansas",17419,3735,0.214421035
-5045,"Faulkner County, Arkansas",117501,19697,0.167632616
-5047,"Franklin County, Arkansas",17457,3823,0.218995245
-5049,"Fulton County, Arkansas",11878,2844,0.239434248
-5051,"Garland County, Arkansas",96502,17961,0.186120495
-5053,"Grant County, Arkansas",17852,2589,0.145025767
-5055,"Greene County, Arkansas",43781,7127,0.162787511
-5057,"Hempstead County, Arkansas",21723,5271,0.242646043
-5059,"Hot Spring County, Arkansas",31374,5518,0.175878116
-5061,"Howard County, Arkansas",13167,2526,0.191843244
-5063,"Independence County, Arkansas",36173,6254,0.172891383
-5065,"Izard County, Arkansas",12624,2156,0.170785805
-5067,"Jackson County, Arkansas",14197,3313,0.23335916
-5069,"Jefferson County, Arkansas",64243,14896,0.23186962
-5071,"Johnson County, Arkansas",25583,5728,0.223898683
-5073,"Lafayette County, Arkansas",6759,1502,0.222222222
-5075,"Lawrence County, Arkansas",16068,2846,0.177122231
-5077,"Lee County, Arkansas",7727,2009,0.259997412
-5079,"Lincoln County, Arkansas",8858,1650,0.186272296
-5081,"Little River County, Arkansas",12136,1913,0.157630191
-5083,"Logan County, Arkansas",21396,4514,0.210974014
-5085,"Lonoke County, Arkansas",71410,8733,0.122293796
-5087,"Madison County, Arkansas",15923,2680,0.168309992
-5089,"Marion County, Arkansas",16252,3355,0.206436131
-5091,"Miller County, Arkansas",42370,8985,0.21206042
-5093,"Mississippi County, Arkansas",41917,10825,0.258248443
-5095,"Monroe County, Arkansas",7173,2015,0.280914541
-5097,"Montgomery County, Arkansas",8838,1666,0.188504186
-5099,"Nevada County, Arkansas",8229,2279,0.276947381
-5101,"Newton County, Arkansas",7781,1103,0.141755558
-5103,"Ouachita County, Arkansas",23711,5722,0.241322593
-5105,"Perry County, Arkansas",10184,1729,0.169776119
-5107,"Phillips County, Arkansas",18837,6252,0.331899984
-5109,"Pike County, Arkansas",10603,1758,0.165802131
-5111,"Poinsett County, Arkansas",23511,5123,0.217898005
-5113,"Polk County, Arkansas",20015,4907,0.245166125
-5115,"Pope County, Arkansas",60128,11117,0.184888904
-5117,"Prairie County, Arkansas",8068,1266,0.156916212
-5119,"Pulaski County, Arkansas",387158,65935,0.170305147
-5121,"Randolph County, Arkansas",17109,3127,0.182769303
-5123,"St. Francis County, Arkansas",22747,6052,0.266057062
-5125,"Saline County, Arkansas",116384,9928,0.085303822
-5127,"Scott County, Arkansas",10327,2282,0.220974145
-5129,"Searcy County, Arkansas",7779,1639,0.210695462
-5131,"Sebastian County, Arkansas",125526,25420,0.202507847
-5133,"Sevier County, Arkansas",17029,3570,0.209642375
-5135,"Sharp County, Arkansas",16706,3616,0.21644918
-5137,"Stone County, Arkansas",12312,2767,0.224740091
-5139,"Union County, Arkansas",39251,7876,0.200657308
-5141,"Van Buren County, Arkansas",16466,3103,0.188448925
-5143,"Washington County, Arkansas",220629,37160,0.168427541
-5145,"White County, Arkansas",74754,12701,0.169903952
-5147,"Woodruff County, Arkansas",6421,1608,0.250428282
-5149,"Yell County, Arkansas",21255,3475,0.163490943
-6001,"Alameda County, California",1617225,170884,0.105664951
-6003,"Alpine County, California",1146,227,0.198080279
-6005,"Amador County, California",34161,3323,0.09727467
-6007,"Butte County, California",221237,44410,0.200734958
-6009,"Calaveras County, California",44743,5242,0.117157991
-6011,"Colusa County, California",21274,2929,0.137679797
-6013,"Contra Costa County, California",1123857,102543,0.091242035
-6015,"Del Norte County, California",24219,5458,0.225360254
-6017,"El Dorado County, California",185012,16537,0.089383391
-6019,"Fresno County, California",961820,232067,0.241279033
-6021,"Glenn County, California",27448,5152,0.187700379
-6023,"Humboldt County, California",132483,26957,0.203475163
-6025,"Imperial County, California",170447,41191,0.241664564
-6027,"Inyo County, California",17606,1792,0.101783483
-6029,"Kern County, California",851826,187232,0.219800757
-6031,"Kings County, California",134853,28084,0.208256398
-6033,"Lake County, California",63040,13224,0.209771574
-6035,"Lassen County, California",21230,2933,0.138153556
-6037,"Los Angeles County, California",9947799,1589956,0.159829928
-6039,"Madera County, California",146576,30549,0.208417476
-6041,"Marin County, California",254105,19341,0.076114205
-6043,"Mariposa County, California",17342,2435,0.140410564
-6045,"Mendocino County, California",85862,15877,0.184913
-6047,"Merced County, California",262972,59660,0.22686826
-6049,"Modoc County, California",8656,1435,0.165780961
-6051,"Mono County, California",14046,1454,0.103517016
-6053,"Monterey County, California",416002,58699,0.141102687
-6055,"Napa County, California",137164,11168,0.081420781
-6057,"Nevada County, California",98014,11169,0.113953109
-6059,"Orange County, California",3127012,359503,0.11496694
-6061,"Placer County, California",376614,30293,0.08043514
-6063,"Plumas County, California",18385,2146,0.116725592
-6065,"Riverside County, California",2347408,345724,0.147279041
-6067,"Sacramento County, California",1489573,235982,0.158422582
-6069,"San Benito County, California",59095,5459,0.092376682
-6071,"San Bernardino County, California",2075424,359080,0.173015249
-6073,"San Diego County, California",3221497,403190,0.1251561
-6075,"San Francisco County, California",856426,92979,0.108566298
-6077,"San Joaquin County, California",717960,114294,0.159192713
-6079,"San Luis Obispo County, California",265343,35303,0.13304666
-6081,"San Mateo County, California",759786,53387,0.070265838
-6083,"Santa Barbara County, California",424510,63010,0.148429955
-6085,"Santa Clara County, California",1891976,149850,0.079202907
-6087,"Santa Cruz County, California",262312,37429,0.142688859
-6089,"Shasta County, California",176198,30186,0.17131863
-6091,"Sierra County, California",2903,241,0.083017568
-6093,"Siskiyou County, California",43166,8374,0.193995274
-6095,"Solano County, California",428057,44427,0.10378758
-6097,"Sonoma County, California",494493,50714,0.102557569
-6099,"Stanislaus County, California",534234,86066,0.16110169
-6101,"Sutter County, California",94745,15181,0.160230091
-6103,"Tehama County, California",62534,13464,0.215306873
-6105,"Trinity County, California",12628,2491,0.197260057
-6107,"Tulare County, California",454844,115786,0.254562004
-6109,"Tuolumne County, California",50556,6715,0.132823008
-6111,"Ventura County, California",836489,80058,0.095707176
-6113,"Yolo County, California",207026,40583,0.196028518
-6115,"Yuba County, California",74044,13298,0.179595916
-8001,"Adams County, Colorado",492541,56588,0.114889928
-8003,"Alamosa County, Colorado",15327,3635,0.237163176
-8005,"Arapahoe County, Colorado",630163,56802,0.090138583
-8007,"Archuleta County, Colorado",12805,1370,0.106989457
-8009,"Baca County, Colorado",3443,661,0.191983735
-8011,"Bent County, Colorado",3985,912,0.228858218
-8013,"Boulder County, Colorado",309313,38546,0.124618105
-8014,"Broomfield County, Colorado",65818,3296,0.050077486
-8015,"Chaffee County, Colorado",17906,1807,0.100915894
-8017,"Cheyenne County, Colorado",1989,228,0.114630468
-8019,"Clear Creek County, Colorado",9248,509,0.055038927
-8021,"Conejos County, Colorado",8102,1813,0.223771908
-8023,"Costilla County, Colorado",3687,1111,0.301328994
-8025,"Crowley County, Colorado",4446,1261,0.283625731
-8027,"Custer County, Colorado",4591,703,0.153125681
-8029,"Delta County, Colorado",29172,5145,0.17636775
-8031,"Denver County, Colorado",681161,93728,0.137600362
-8033,"Dolores County, Colorado",1841,250,0.135795763
-8035,"Douglas County, Colorado",327318,11333,0.034623821
-8037,"Eagle County, Colorado",54012,3793,0.070225135
-8039,"Elbert County, Colorado",25002,1110,0.044396448
-8041,"El Paso County, Colorado",668580,72948,0.109108858
-8043,"Fremont County, Colorado",36230,5547,0.153105161
-8045,"Garfield County, Colorado",57594,4662,0.080945932
-8047,"Gilpin County, Colorado",5771,238,0.041240686
-8049,"Grand County, Colorado",14983,1691,0.112861243
-8051,"Gunnison County, Colorado",15761,2084,0.132225113
-8053,"Hinsdale County, Colorado",878,114,0.129840547
-8055,"Huerfano County, Colorado",6418,1024,0.159551262
-8057,"Jackson County, Colorado",1290,202,0.156589147
-8059,"Jefferson County, Colorado",561206,41438,0.073837414
-8061,"Kiowa County, Colorado",1422,160,0.112517581
-8063,"Kit Carson County, Colorado",7003,705,0.100671141
-8065,"Lake County, Colorado",7453,1232,0.165302563
-8067,"La Plata County, Colorado",53190,4609,0.086651626
-8069,"Larimer County, Colorado",328456,39489,0.120226149
-8071,"Las Animas County, Colorado",13340,2426,0.18185907
-8073,"Lincoln County, Colorado",3537,475,0.1342946
-8075,"Logan County, Colorado",20756,3117,0.150173444
-8077,"Mesa County, Colorado",146542,22978,0.156801463
-8079,"Mineral County, Colorado",823,99,0.120291616
-8081,"Moffat County, Colorado",12930,1796,0.138901779
-8083,"Montezuma County, Colorado",25676,4140,0.161240069
-8085,"Montrose County, Colorado",40853,6812,0.16674418
-8087,"Morgan County, Colorado",27796,2787,0.100266225
-8089,"Otero County, Colorado",17874,4421,0.247342509
-8091,"Ouray County, Colorado",4709,466,0.098959439
-8093,"Park County, Colorado",17240,947,0.054930394
-8095,"Phillips County, Colorado",4239,282,0.066525124
-8097,"Pitkin County, Colorado",17781,1289,0.072493111
-8099,"Prowers County, Colorado",11679,2218,0.18991352
-8101,"Pueblo County, Colorado",160305,30467,0.190056455
-8103,"Rio Blanco County, Colorado",6114,701,0.11465489
-8105,"Rio Grande County, Colorado",11052,1890,0.171009772
-8107,"Routt County, Colorado",24578,2640,0.107413134
-8109,"Saguache County, Colorado",6444,1139,0.176753569
-8111,"San Juan County, Colorado",544,25,0.045955882
-8113,"San Miguel County, Colorado",7933,708,0.089247447
-8115,"Sedgwick County, Colorado",2290,390,0.170305677
-8117,"Summit County, Colorado",30311,3075,0.101448319
-8119,"Teller County, Colorado",23899,1980,0.082848655
-8121,"Washington County, Colorado",4494,480,0.106809079
-8123,"Weld County, Colorado",288048,30574,0.106142032
-8125,"Yuma County, Colorado",9925,1438,0.14488665
-9001,"Fairfield County, Connecticut",926505,81751,0.088235897
-9003,"Hartford County, Connecticut",872612,97063,0.111232713
-9005,"Litchfield County, Connecticut",180907,12650,0.069925431
-9007,"Middlesex County, Connecticut",157983,10909,0.069051733
-9009,"New Haven County, Connecticut",832858,98855,0.118693703
-9011,"New London County, Connecticut",256892,26140,0.101754823
-9013,"Tolland County, Connecticut",135909,9390,0.069090347
-9015,"Windham County, Connecticut",111235,11691,0.105101811
+01001,"Autauga County, Alabama",54765,8422,0.153784351
+01003,"Baldwin County, Alabama",204929,21653,0.105660985
+01005,"Barbour County, Alabama",22856,6597,0.288633182
+01007,"Bibb County, Alabama",20468,2863,0.139876881
+01009,"Blount County, Alabama",57082,8220,0.144003364
+01011,"Bullock County, Alabama",9909,3110,0.31385609
+01013,"Butler County, Alabama",19707,4640,0.235449333
+01015,"Calhoun County, Alabama",111981,20819,0.185915468
+01017,"Chambers County, Alabama",33274,5531,0.166225882
+01019,"Cherokee County, Alabama",25501,3827,0.150072546
+01021,"Chilton County, Alabama",43260,8034,0.185714286
+01023,"Choctaw County, Alabama",12875,2864,0.222446602
+01025,"Clarke County, Alabama",23963,6088,0.25405834
+01027,"Clay County, Alabama",13040,2405,0.184432515
+01029,"Cleburne County, Alabama",14659,2719,0.185483321
+01031,"Coffee County, Alabama",50502,7604,0.150568294
+01033,"Colbert County, Alabama",53991,8785,0.162712304
+01035,"Conecuh County, Alabama",12381,2752,0.222276068
+01037,"Coosa County, Alabama",10452,1459,0.139590509
+01039,"Covington County, Alabama",36586,6702,0.183184825
+01041,"Crenshaw County, Alabama",13661,2148,0.157235927
+01043,"Cullman County, Alabama",81016,12831,0.158376123
+01045,"Dale County, Alabama",47854,8798,0.18385088
+01047,"Dallas County, Alabama",39394,12247,0.310884906
+01049,"DeKalb County, Alabama",70215,15500,0.220750552
+01051,"Elmore County, Alabama",76683,9462,0.123391104
+01053,"Escambia County, Alabama",34383,8268,0.240467673
+01055,"Etowah County, Alabama",101536,17524,0.172589032
+01057,"Fayette County, Alabama",16251,3258,0.20047997
+01059,"Franklin County, Alabama",31129,6299,0.202351505
+01061,"Geneva County, Alabama",26177,6282,0.239981663
+01063,"Greene County, Alabama",8344,3225,0.386505273
+01065,"Hale County, Alabama",14648,3809,0.2600355
+01067,"Henry County, Alabama",16770,2270,0.135360763
+01069,"Houston County, Alabama",103287,18913,0.183111137
+01071,"Jackson County, Alabama",51548,10418,0.202102894
+01073,"Jefferson County, Alabama",645154,109707,0.170047772
+01075,"Lamar County, Alabama",13747,2916,0.212119008
+01077,"Lauderdale County, Alabama",90283,13703,0.151778297
+01079,"Lawrence County, Alabama",32879,5508,0.167523343
+01081,"Lee County, Alabama",153342,32815,0.213998774
+01083,"Limestone County, Alabama",90098,12384,0.137450332
+01085,"Lowndes County, Alabama",10099,2820,0.279235568
+01087,"Macon County, Alabama",16688,4302,0.257790029
+01089,"Madison County, Alabama",348232,45960,0.131980978
+01091,"Marengo County, Alabama",19249,4201,0.218245104
+01093,"Marion County, Alabama",29463,5144,0.174591861
+01095,"Marshall County, Alabama",93847,20354,0.21688493
+01097,"Mobile County, Alabama",405635,78208,0.192803875
+01099,"Monroe County, Alabama",21226,6561,0.309102045
+01101,"Montgomery County, Alabama",219767,45479,0.206941898
+01103,"Morgan County, Alabama",117109,17920,0.153019836
+01105,"Perry County, Alabama",8661,3616,0.417503752
+01107,"Pickens County, Alabama",18862,4430,0.234863747
+01109,"Pike County, Alabama",31488,8374,0.265942581
+01111,"Randolph County, Alabama",22073,3912,0.1772301
+01113,"Russell County, Alabama",57108,11491,0.201215241
+01115,"St. Clair County, Alabama",85339,11268,0.132038107
+01117,"Shelby County, Alabama",207934,17557,0.084435446
+01119,"Sumter County, Alabama",12102,3792,0.313336639
+01121,"Talladega County, Alabama",77204,15401,0.199484483
+01123,"Tallapoosa County, Alabama",40078,8131,0.202879385
+01125,"Tuscaloosa County, Alabama",195629,34058,0.174094843
+01127,"Walker County, Alabama",63468,12525,0.197343543
+01129,"Washington County, Alabama",16382,3446,0.210352826
+01131,"Wilcox County, Alabama",10476,3254,0.310614738
+01133,"Winston County, Alabama",23509,3817,0.16236335
+02013,"Aleutians East Borough, Alaska",3415,525,0.153733529
+02016,"Aleutians West Census Area, Alaska",5522,472,0.085476277
+02020,"Anchorage Municipality, Alaska",288946,26498,0.091705717
+02050,"Bethel Census Area, Alaska",17542,4871,0.277676434
+02060,"Bristol Bay Borough, Alaska",863,50,0.057937428
+02068,"Denali Borough, Alaska",2177,369,0.169499311
+02070,"Dillingham Census Area, Alaska",4923,849,0.17245582
+02090,"Fairbanks North Star Borough, Alaska",95430,7749,0.08120088
+02100,"Haines Borough, Alaska",2479,224,0.090359016
+02105,"Hoonah-Angoon Census Area, Alaska",2131,207,0.097137494
+02110,"Juneau City and Borough, Alaska",31799,2514,0.07905909
+02122,"Kenai Peninsula Borough, Alaska",56934,6827,0.119910774
+02130,"Ketchikan Gateway Borough, Alaska",13585,1433,0.10548399
+02150,"Kodiak Island Borough, Alaska",13373,1243,0.092948478
+02158,"Kusilvak Census Area, Alaska",8148,3296,0.404516446
+02164,"Lake and Peninsula Borough, Alaska",1366,217,0.15885798
+02170,"Matanuska-Susitna Borough, Alaska",101349,10476,0.103365598
+02180,"Nome Census Area, Alaska",9599,2221,0.231378269
+02185,"North Slope Borough, Alaska",9682,904,0.093369139
+02188,"Northwest Arctic Borough, Alaska",7656,1921,0.250914316
+02195,"Petersburg Borough, Alaska",3242,267,0.08235657
+02198,"Prince of Wales-Hyder Census Area, Alaska",6415,972,0.151519875
+02220,"Sitka City and Borough, Alaska",8554,639,0.074701894
+02230,"Skagway Municipality, Alaska",1054,56,0.05313093
+02240,"Southeast Fairbanks Census Area, Alaska",6789,730,0.107526882
+02261,"Valdez-Cordova Census Area, Alaska",9181,747,0.081363686
+02275,"Wrangell City and Borough, Alaska",2463,192,0.077953715
+02282,"Yakutat City and Borough, Alaska",689,46,0.066763425
+02290,"Yukon-Koyukuk Census Area, Alaska",5368,1350,0.251490313
+04001,"Apache County, Arizona",70184,24761,0.352801208
+04003,"Cochise County, Arizona",117265,20192,0.172191191
+04005,"Coconino County, Arizona",127640,24168,0.189345033
+04007,"Gila County, Arizona",52501,11807,0.224890954
+04009,"Graham County, Arizona",33458,7122,0.212863889
+04011,"Greenlee County, Arizona",9385,1115,0.118806606
+04012,"La Paz County, Arizona",20402,4507,0.220909715
+04013,"Maricopa County, Arizona",4198378,618496,0.147317845
+04015,"Mohave County, Arizona",201965,35296,0.174762954
+04017,"Navajo County, Arizona",105735,30163,0.285269778
+04019,"Pima County, Arizona",991092,176222,0.177805895
+04021,"Pinal County, Arizona",392300,55859,0.142388478
+04023,"Santa Cruz County, Arizona",46214,11080,0.239754187
+04025,"Yavapai County, Arizona",220076,30813,0.140010724
+04027,"Yuma County, Arizona",202390,40591,0.200558328
+05001,"Arkansas County, Arkansas",17786,3563,0.200326099
+05003,"Ashley County, Arkansas",20352,4110,0.201945755
+05005,"Baxter County, Arkansas",40634,5676,0.139685977
+05007,"Benton County, Arkansas",255849,25356,0.099105332
+05009,"Boone County, Arkansas",36646,5455,0.148856628
+05011,"Bradley County, Arkansas",10822,2513,0.23221216
+05013,"Calhoun County, Arkansas",5061,788,0.155700454
+05015,"Carroll County, Arkansas",27597,4141,0.150052542
+05017,"Chicot County, Arkansas",10151,2962,0.291793912
+05019,"Clark County, Arkansas",19658,3887,0.197731204
+05021,"Clay County, Arkansas",14854,3352,0.225663121
+05023,"Cleburne County, Arkansas",24850,3631,0.1461167
+05025,"Cleveland County, Arkansas",8118,1574,0.193890121
+05027,"Columbia County, Arkansas",22080,5563,0.251947464
+05029,"Conway County, Arkansas",20694,3772,0.182275056
+05031,"Craighead County, Arkansas",101577,18667,0.183771917
+05033,"Crawford County, Arkansas",61706,9830,0.159303795
+05035,"Crittenden County, Arkansas",48299,10709,0.221723017
+05037,"Cross County, Arkansas",16694,2793,0.167305619
+05039,"Dallas County, Arkansas",6652,948,0.14251353
+05041,"Desha County, Arkansas",11702,3401,0.29063408
+05043,"Drew County, Arkansas",17419,3735,0.214421035
+05045,"Faulkner County, Arkansas",117501,19697,0.167632616
+05047,"Franklin County, Arkansas",17457,3823,0.218995245
+05049,"Fulton County, Arkansas",11878,2844,0.239434248
+05051,"Garland County, Arkansas",96502,17961,0.186120495
+05053,"Grant County, Arkansas",17852,2589,0.145025767
+05055,"Greene County, Arkansas",43781,7127,0.162787511
+05057,"Hempstead County, Arkansas",21723,5271,0.242646043
+05059,"Hot Spring County, Arkansas",31374,5518,0.175878116
+05061,"Howard County, Arkansas",13167,2526,0.191843244
+05063,"Independence County, Arkansas",36173,6254,0.172891383
+05065,"Izard County, Arkansas",12624,2156,0.170785805
+05067,"Jackson County, Arkansas",14197,3313,0.23335916
+05069,"Jefferson County, Arkansas",64243,14896,0.23186962
+05071,"Johnson County, Arkansas",25583,5728,0.223898683
+05073,"Lafayette County, Arkansas",6759,1502,0.222222222
+05075,"Lawrence County, Arkansas",16068,2846,0.177122231
+05077,"Lee County, Arkansas",7727,2009,0.259997412
+05079,"Lincoln County, Arkansas",8858,1650,0.186272296
+05081,"Little River County, Arkansas",12136,1913,0.157630191
+05083,"Logan County, Arkansas",21396,4514,0.210974014
+05085,"Lonoke County, Arkansas",71410,8733,0.122293796
+05087,"Madison County, Arkansas",15923,2680,0.168309992
+05089,"Marion County, Arkansas",16252,3355,0.206436131
+05091,"Miller County, Arkansas",42370,8985,0.21206042
+05093,"Mississippi County, Arkansas",41917,10825,0.258248443
+05095,"Monroe County, Arkansas",7173,2015,0.280914541
+05097,"Montgomery County, Arkansas",8838,1666,0.188504186
+05099,"Nevada County, Arkansas",8229,2279,0.276947381
+05101,"Newton County, Arkansas",7781,1103,0.141755558
+05103,"Ouachita County, Arkansas",23711,5722,0.241322593
+05105,"Perry County, Arkansas",10184,1729,0.169776119
+05107,"Phillips County, Arkansas",18837,6252,0.331899984
+05109,"Pike County, Arkansas",10603,1758,0.165802131
+05111,"Poinsett County, Arkansas",23511,5123,0.217898005
+05113,"Polk County, Arkansas",20015,4907,0.245166125
+05115,"Pope County, Arkansas",60128,11117,0.184888904
+05117,"Prairie County, Arkansas",8068,1266,0.156916212
+05119,"Pulaski County, Arkansas",387158,65935,0.170305147
+05121,"Randolph County, Arkansas",17109,3127,0.182769303
+05123,"St. Francis County, Arkansas",22747,6052,0.266057062
+05125,"Saline County, Arkansas",116384,9928,0.085303822
+05127,"Scott County, Arkansas",10327,2282,0.220974145
+05129,"Searcy County, Arkansas",7779,1639,0.210695462
+05131,"Sebastian County, Arkansas",125526,25420,0.202507847
+05133,"Sevier County, Arkansas",17029,3570,0.209642375
+05135,"Sharp County, Arkansas",16706,3616,0.21644918
+05137,"Stone County, Arkansas",12312,2767,0.224740091
+05139,"Union County, Arkansas",39251,7876,0.200657308
+05141,"Van Buren County, Arkansas",16466,3103,0.188448925
+05143,"Washington County, Arkansas",220629,37160,0.168427541
+05145,"White County, Arkansas",74754,12701,0.169903952
+05147,"Woodruff County, Arkansas",6421,1608,0.250428282
+05149,"Yell County, Arkansas",21255,3475,0.163490943
+06001,"Alameda County, California",1617225,170884,0.105664951
+06003,"Alpine County, California",1146,227,0.198080279
+06005,"Amador County, California",34161,3323,0.09727467
+06007,"Butte County, California",221237,44410,0.200734958
+06009,"Calaveras County, California",44743,5242,0.117157991
+06011,"Colusa County, California",21274,2929,0.137679797
+06013,"Contra Costa County, California",1123857,102543,0.091242035
+06015,"Del Norte County, California",24219,5458,0.225360254
+06017,"El Dorado County, California",185012,16537,0.089383391
+06019,"Fresno County, California",961820,232067,0.241279033
+06021,"Glenn County, California",27448,5152,0.187700379
+06023,"Humboldt County, California",132483,26957,0.203475163
+06025,"Imperial County, California",170447,41191,0.241664564
+06027,"Inyo County, California",17606,1792,0.101783483
+06029,"Kern County, California",851826,187232,0.219800757
+06031,"Kings County, California",134853,28084,0.208256398
+06033,"Lake County, California",63040,13224,0.209771574
+06035,"Lassen County, California",21230,2933,0.138153556
+06037,"Los Angeles County, California",9947799,1589956,0.159829928
+06039,"Madera County, California",146576,30549,0.208417476
+06041,"Marin County, California",254105,19341,0.076114205
+06043,"Mariposa County, California",17342,2435,0.140410564
+06045,"Mendocino County, California",85862,15877,0.184913
+06047,"Merced County, California",262972,59660,0.22686826
+06049,"Modoc County, California",8656,1435,0.165780961
+06051,"Mono County, California",14046,1454,0.103517016
+06053,"Monterey County, California",416002,58699,0.141102687
+06055,"Napa County, California",137164,11168,0.081420781
+06057,"Nevada County, California",98014,11169,0.113953109
+06059,"Orange County, California",3127012,359503,0.11496694
+06061,"Placer County, California",376614,30293,0.08043514
+06063,"Plumas County, California",18385,2146,0.116725592
+06065,"Riverside County, California",2347408,345724,0.147279041
+06067,"Sacramento County, California",1489573,235982,0.158422582
+06069,"San Benito County, California",59095,5459,0.092376682
+06071,"San Bernardino County, California",2075424,359080,0.173015249
+06073,"San Diego County, California",3221497,403190,0.1251561
+06075,"San Francisco County, California",856426,92979,0.108566298
+06077,"San Joaquin County, California",717960,114294,0.159192713
+06079,"San Luis Obispo County, California",265343,35303,0.13304666
+06081,"San Mateo County, California",759786,53387,0.070265838
+06083,"Santa Barbara County, California",424510,63010,0.148429955
+06085,"Santa Clara County, California",1891976,149850,0.079202907
+06087,"Santa Cruz County, California",262312,37429,0.142688859
+06089,"Shasta County, California",176198,30186,0.17131863
+06091,"Sierra County, California",2903,241,0.083017568
+06093,"Siskiyou County, California",43166,8374,0.193995274
+06095,"Solano County, California",428057,44427,0.10378758
+06097,"Sonoma County, California",494493,50714,0.102557569
+06099,"Stanislaus County, California",534234,86066,0.16110169
+06101,"Sutter County, California",94745,15181,0.160230091
+06103,"Tehama County, California",62534,13464,0.215306873
+06105,"Trinity County, California",12628,2491,0.197260057
+06107,"Tulare County, California",454844,115786,0.254562004
+06109,"Tuolumne County, California",50556,6715,0.132823008
+06111,"Ventura County, California",836489,80058,0.095707176
+06113,"Yolo County, California",207026,40583,0.196028518
+06115,"Yuba County, California",74044,13298,0.179595916
+08001,"Adams County, Colorado",492541,56588,0.114889928
+08003,"Alamosa County, Colorado",15327,3635,0.237163176
+08005,"Arapahoe County, Colorado",630163,56802,0.090138583
+08007,"Archuleta County, Colorado",12805,1370,0.106989457
+08009,"Baca County, Colorado",3443,661,0.191983735
+08011,"Bent County, Colorado",3985,912,0.228858218
+08013,"Boulder County, Colorado",309313,38546,0.124618105
+08014,"Broomfield County, Colorado",65818,3296,0.050077486
+08015,"Chaffee County, Colorado",17906,1807,0.100915894
+08017,"Cheyenne County, Colorado",1989,228,0.114630468
+08019,"Clear Creek County, Colorado",9248,509,0.055038927
+08021,"Conejos County, Colorado",8102,1813,0.223771908
+08023,"Costilla County, Colorado",3687,1111,0.301328994
+08025,"Crowley County, Colorado",4446,1261,0.283625731
+08027,"Custer County, Colorado",4591,703,0.153125681
+08029,"Delta County, Colorado",29172,5145,0.17636775
+08031,"Denver County, Colorado",681161,93728,0.137600362
+08033,"Dolores County, Colorado",1841,250,0.135795763
+08035,"Douglas County, Colorado",327318,11333,0.034623821
+08037,"Eagle County, Colorado",54012,3793,0.070225135
+08039,"Elbert County, Colorado",25002,1110,0.044396448
+08041,"El Paso County, Colorado",668580,72948,0.109108858
+08043,"Fremont County, Colorado",36230,5547,0.153105161
+08045,"Garfield County, Colorado",57594,4662,0.080945932
+08047,"Gilpin County, Colorado",5771,238,0.041240686
+08049,"Grand County, Colorado",14983,1691,0.112861243
+08051,"Gunnison County, Colorado",15761,2084,0.132225113
+08053,"Hinsdale County, Colorado",878,114,0.129840547
+08055,"Huerfano County, Colorado",6418,1024,0.159551262
+08057,"Jackson County, Colorado",1290,202,0.156589147
+08059,"Jefferson County, Colorado",561206,41438,0.073837414
+08061,"Kiowa County, Colorado",1422,160,0.112517581
+08063,"Kit Carson County, Colorado",7003,705,0.100671141
+08065,"Lake County, Colorado",7453,1232,0.165302563
+08067,"La Plata County, Colorado",53190,4609,0.086651626
+08069,"Larimer County, Colorado",328456,39489,0.120226149
+08071,"Las Animas County, Colorado",13340,2426,0.18185907
+08073,"Lincoln County, Colorado",3537,475,0.1342946
+08075,"Logan County, Colorado",20756,3117,0.150173444
+08077,"Mesa County, Colorado",146542,22978,0.156801463
+08079,"Mineral County, Colorado",823,99,0.120291616
+08081,"Moffat County, Colorado",12930,1796,0.138901779
+08083,"Montezuma County, Colorado",25676,4140,0.161240069
+08085,"Montrose County, Colorado",40853,6812,0.16674418
+08087,"Morgan County, Colorado",27796,2787,0.100266225
+08089,"Otero County, Colorado",17874,4421,0.247342509
+08091,"Ouray County, Colorado",4709,466,0.098959439
+08093,"Park County, Colorado",17240,947,0.054930394
+08095,"Phillips County, Colorado",4239,282,0.066525124
+08097,"Pitkin County, Colorado",17781,1289,0.072493111
+08099,"Prowers County, Colorado",11679,2218,0.18991352
+08101,"Pueblo County, Colorado",160305,30467,0.190056455
+08103,"Rio Blanco County, Colorado",6114,701,0.11465489
+08105,"Rio Grande County, Colorado",11052,1890,0.171009772
+08107,"Routt County, Colorado",24578,2640,0.107413134
+08109,"Saguache County, Colorado",6444,1139,0.176753569
+08111,"San Juan County, Colorado",544,25,0.045955882
+08113,"San Miguel County, Colorado",7933,708,0.089247447
+08115,"Sedgwick County, Colorado",2290,390,0.170305677
+08117,"Summit County, Colorado",30311,3075,0.101448319
+08119,"Teller County, Colorado",23899,1980,0.082848655
+08121,"Washington County, Colorado",4494,480,0.106809079
+08123,"Weld County, Colorado",288048,30574,0.106142032
+08125,"Yuma County, Colorado",9925,1438,0.14488665
+09001,"Fairfield County, Connecticut",926505,81751,0.088235897
+09003,"Hartford County, Connecticut",872612,97063,0.111232713
+09005,"Litchfield County, Connecticut",180907,12650,0.069925431
+09007,"Middlesex County, Connecticut",157983,10909,0.069051733
+09009,"New Haven County, Connecticut",832858,98855,0.118693703
+09011,"New London County, Connecticut",256892,26140,0.101754823
+09013,"Tolland County, Connecticut",135909,9390,0.069090347
+09015,"Windham County, Connecticut",111235,11691,0.105101811
 10001,"Kent County, Delaware",169188,22968,0.135754309
 10003,"New Castle County, Delaware",538286,61530,0.114307264
 10005,"Sussex County, Delaware",216204,25300,0.117019112
